@@ -50,15 +50,9 @@ O processo de escrever documentação se dará em três momentos:
 
 ### 5.1. Fazer investigação técnica do produto
 
-<div>
   <input type="checkbox" name="uchk">
   <label for="uchk">Unchecked.</label>
-</div>
-<div>
-  <input type="checkbox" name="chk" checked>
-  <label for="chk">Checked.</label>
-</div>
-
+  
 - [ ] Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
 
 - [ ] Você possui uma lista indicando todas as funcionalidades do produto de forma completa?
