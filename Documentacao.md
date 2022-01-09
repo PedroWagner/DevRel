@@ -52,7 +52,7 @@ O processo de escrever documentação se dará em três momentos:
 
 - <input type="checkbox" name="uchk">  <label for="uchk">Teste checkbox.</label>
   
-- [ ] Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
+- <input type="checkbox" name="uchk">  Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
 
 - [ ] Você possui uma lista indicando todas as funcionalidades do produto de forma completa?
 
