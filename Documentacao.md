@@ -104,7 +104,7 @@ Garanta que a data em que escreveu cada página está visível, pois isso indica
 Por fim, se o ambiente da sua documentação permitir, procure incorporar um sistema de curtidas e comentários. Isso o ajudará a medir o engajamento dos seus leitores e o sucesso da sua documentação.
   
   <details>
-<summary><strong>3.4.1. Escrever tutoriais</strong></summary>
+ &nbsp;&nbsp;<summary><strong>3.4.1. Escrever tutoriais</strong></summary>
 <br>
 Um tutorial é uma lista de instruções que guia o leitor na execução de uma atividade. O objetivo de um tutorial é familiarizar o leitor com diferentes aspectos da ferramenta de forma que, ao final dele, o leitor se sente empoderado para usá-la sozinho.
     
@@ -123,7 +123,7 @@ Este é o único tutorial que você realmente precisa ter em sua documentação,
 </details>
   
   <details>
-<summary><strong>3.4.2Escrever guias</strong></summary>
+<summary><strong> &nbsp;&nbsp;3.4.2Escrever guias</strong></summary>
 <br>
 Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
     
