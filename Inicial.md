@@ -21,7 +21,9 @@ Ator ferramentas e etc
 <details>
 <summary><strong>Atividades</strong></summary>
 <br>
+ 
  [Lista de atividades](https://pedrowagner.github.io/DevRel/Atividades)
+ 
 </details>
 <br>
 <details>
