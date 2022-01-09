@@ -7,13 +7,13 @@ Pedro Wagner - DRE: 115021274
 Tudo que você precisa saber para criar e manter uma comunidade de developers
 
 <details>
-<summary>Introdução</summary>
+## <summary>Introdução</summary>
 <br>
 Aqui vai a introdução.
 </details>
 <br>
 <details>
-<summary>Ator, ferramentas e etc</summary>
+<summary>## Ator, ferramentas e etc</summary>
 <br>
 Ator ferramentas e etc
 </details>
@@ -21,7 +21,7 @@ Ator ferramentas e etc
 <details>
 <summary>Atividades</summary>
 <br>
-Lista de atividades
+[Lista de atividades](https://pedrowagner.github.io/DevRel/Atividades)
 </details>
 <br>
 <details>
