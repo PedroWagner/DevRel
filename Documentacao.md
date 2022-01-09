@@ -30,7 +30,8 @@
 
 <details>
 <summary><strong>3.1. Fazer investigação técnica do produto</strong></summary>
- 
+ <br>
+  <br>
  &nbsp;&nbsp;O primeiro passo no processo da escrita da documentação não se dá em uma página em branco, mas com o produto em si. Para poder escrever sobre ele, você deve conhecer intimamente cada pedaço, cada funcionalidade, cada botão e cada erro.
   <br>
   <br>
@@ -55,7 +56,8 @@
 
 <details>
 <summary><strong>3.2. Fazer investigação empática do produto</strong></summary>
- 
+ <br>
+  <br>
  &nbsp;&nbsp;Existe um outro aspecto da investigação do produto, menos técnico, que é o de experimentar o produto você mesmo. Sua função não é de ser um bug tester, clicando em cada botão trinta vezes para ver o que quebra, mas de ser o cliente zero, de utilizar o produto do mesmo jeito que um de seus usuários.
   <br>
   <br>
@@ -71,7 +73,8 @@
 
 <details>
 <summary><strong>3.3. Organizar documentação</strong></summary>
- 
+ <br>
+  <br>
  &nbsp;&nbsp;Tendo toda a experiência que você precisa para informar sua documentação, é hora de definir como ela será organizada na sua página. Esse passo é importante para garantir que tanto você quanto os seus clientes possam encontrar a página que precisam rapidamente. Quando seu cliente acessa sua documentação deve se deparar com uma lista de tópicos e categorias gerais, cada qual o leva para uma outra lista mais específica até que ele encontra aquilo que precisa.
   <br>
   <br>
@@ -93,7 +96,8 @@
 
 <details>
 <summary><strong>3.4. Escrever documentação</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp;Existem algumas diferenças cruciais nas formas de se escrever tutoriais, guias e referências, mas a maior parte dos princípios se aplica em todos os três tipos.
   <br>
   <br>
@@ -129,7 +133,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.1. Escrever tutoriais</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Um tutorial é uma lista de instruções que guia o leitor na execução de uma atividade. O objetivo de um tutorial é familiarizar o leitor com diferentes aspectos da ferramenta de forma que, ao final dele, o leitor se sente empoderado para usá-la sozinho.
     <br>
   <br>
@@ -154,7 +159,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   
   <details>
  <summary><strong> &nbsp;&nbsp;3.4.2Escrever guias</strong></summary>
-
+<br>
+  <br>
   &nbsp;&nbsp; &nbsp;&nbsp;Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
     <br>
   <br>
@@ -170,7 +176,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.3 Escrever referências</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Referências são explicações técnicas das diferentes funcionalidades do seu produto. É a parte mais simples porém mais tediosa de se escrever.
     <br>
   <br>
@@ -186,7 +193,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.4 Escrever exemplos de código</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Um passo opcional que você pode querer dar na sua documentação é incluir exemplos de código. Estes chamam a atenção dos seus leitores e talvez possam ajuda-los muito mais que os textos mais bem escritos.
     <br>
   <br>
@@ -211,7 +219,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 <details>
 <summary><strong>3.5. Revisar documentação</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp;Terminar a documentação inicial será uma grande vitória, mas não quer dizer que você nunca mais irá precisar tocar nela.
   <br>
   <br>
@@ -223,7 +232,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.1 Atualizar documentação</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;A cada nova release de seu produto, é de se esperar que ele passe por uma ou mais mudanças significativas, seja a adição de novas funcionalidades ou a melhoria das existentes. Sendo assim, sua documentação deve ser atualizada para não ficar para trás.
   <br>
   <br>
@@ -240,7 +250,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.2 Corrigir documentação</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Durante seu tempo no time de DevRel, você irá receber feedback da sua comunidade de diversas formas, algumas delas sobre documentação. Falaremos mais sobre essa coleta de feedback na próxima seção.
   <br>
   <br>
@@ -260,7 +271,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.3 Criar listas de acesso rápido</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Uma característica pequena mas de grande utilidade que você pode incorporar na sua documentação, mas só a partir da segunda revisão é uma lista de acesso rápido.
  <br>
   <br>
@@ -278,7 +290,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 <details>
 <summary><strong>3.6. Coletar métricas de sucesso</strong></summary>
-
+<br>
+  <br>
  &nbsp;&nbsp;Como sempre, definir as métricas de sucesso dependem da definição de sucesso da atividade. Qual o propósito da documentação, e o faz com que ela tenha sucesso? Objetivo da documentação é instruir os leitores no uso da sua ferramenta, de forma a empoderá-los a se tornarem desenvolvedores melhores com ela.
   <br>
   <br>
