@@ -104,7 +104,7 @@ Garanta que a data em que escreveu cada página está visível, pois isso indica
 Por fim, se o ambiente da sua documentação permitir, procure incorporar um sistema de curtidas e comentários. Isso o ajudará a medir o engajamento dos seus leitores e o sucesso da sua documentação.
   
   <details>
- &nbsp;&nbsp;<summary><strong>3.4.1. Escrever tutoriais</strong></summary>
+<summary><strong>3.4.1. Escrever tutoriais</strong></summary>
 <br>
 Um tutorial é uma lista de instruções que guia o leitor na execução de uma atividade. O objetivo de um tutorial é familiarizar o leitor com diferentes aspectos da ferramenta de forma que, ao final dele, o leitor se sente empoderado para usá-la sozinho.
     
@@ -122,18 +122,18 @@ Este é o único tutorial que você realmente precisa ter em sua documentação,
 
 </details>
   
-  <details>
-<summary><strong> &nbsp;&nbsp;3.4.2Escrever guias</strong></summary>
-<br>
-Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
+   &nbsp;&nbsp;<details>
+ &nbsp;&nbsp;<summary><strong>3.4.2Escrever guias</strong></summary>
+ &nbsp;&nbsp;<br>
+ &nbsp;&nbsp;Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
     
-Ao contrário de um tutorial, que cobre um processo inteiro do início ao fim, um guia é focado em uma atividade específica. “Como salvar meu projeto”, “Como adicionar um gráfico”, etc, são exemplos de guias.
+ &nbsp;&nbsp;Ao contrário de um tutorial, que cobre um processo inteiro do início ao fim, um guia é focado em uma atividade específica. “Como salvar meu projeto”, “Como adicionar um gráfico”, etc, são exemplos de guias.
     
-Pense em atividade granulares que serão frequentemente realizadas pelos seus usuários independente do projeto. Escreva seus guias focados na atividade, com o mínimo de passos necessários.
+ &nbsp;&nbsp;Pense em atividade granulares que serão frequentemente realizadas pelos seus usuários independente do projeto. Escreva seus guias focados na atividade, com o mínimo de passos necessários.
     
-Fora isso, os mesmos princípios de escrita descritos anteriormente se aplicam.
+ &nbsp;&nbsp;Fora isso, os mesmos princípios de escrita descritos anteriormente se aplicam.
 
-</details>
+ &nbsp;&nbsp;</details>
 
   <details>
 <summary><strong>3.4.3 Escrever referências</strong></summary>
