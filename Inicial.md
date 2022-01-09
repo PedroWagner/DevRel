@@ -13,19 +13,19 @@ Aqui vai a introdução.
 </details>
 <br>
 <details>
-<summary>Ator, ferramentas e etc</summary>
+<summary><strong>Ator, ferramentas e etc</strong></summary>
 <br>
 Ator ferramentas e etc
 </details>
 <br>
 <details>
-<summary>Atividades</summary>
+<summary><strong>Atividades</strong></summary>
 <br>
 [Lista de atividades](https://pedrowagner.github.io/DevRel/Atividades)
 </details>
 <br>
 <details>
-<summary>Diagramas</summary>
+<summary><strong>Diagramas</strong></summary>
 <br>
 Aqui vai ter uns diagramas
 </details>
