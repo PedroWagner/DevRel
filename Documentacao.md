@@ -19,7 +19,12 @@
  
  &nbsp;&nbsp;Sua documentação deve ser hospedada no mesmo local onde seu produto está disponibilizado. Se você tem uma webpage para seu produto, é lá que  seus usuários irão procurar a documentação. Se seu produto é acessado através de um repositório no GitHub, então é lá que ela deve ser encontrada.
  
- &nbsp;&nbsp;Ferramentas:
+ &nbsp;&nbsp;Existem diversas ferramentas disponíveis no mercado para te ajudar a escrever e disponibilizar documentação. Algumas das mais usadas incluem [Document360](https://document360.com/) e [ClickHelp](https://clickhelp.com/). Estas ferramentas possuem diversas funcionalidades que irão facilitar enormemente o seu trabalho. Inclusive várias das atividades descritas na próxima seção podem ser feitas automaticamente usando esses e outros programas. Por outro lado, o preço de entrada pode variar de cinquenta a cem dólares.
+ 
+ &nbsp;&nbsp;Entretanto, se quiser escrever documentação com um orçamento apertado, não se preocupe, tudo pode ser feito perfeitamente bem sem gastar um centavo. Para escrever, qualquer ferramenta de escrita colaborativa, como [Google Docs](https://docs.google.com/), irá permitir que você e seu time trabalhem juntos na composição de seu texto. [GitHub Pages](https://pages.github.com/), uma extensão do GitHub que é grátis repositórios públicos, permite que você escreva e disponibilize seus documentos online usando [Markdown](https://en.wikipedia.org/wiki/Markdown), o que é ideal para criar documentos funcionais e elegantes.
+ 
+ &nbsp;&nbsp;Outras ferramentas grátis recomendadas são o [Hemingway Editor](https://hemingwayapp.com/), que irá te ajudar a tornar o seu texto mais claro e bem escrito, e o [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision), que te permitirá conhecer as estatísticas de visitação das suas páginas.
+
  
  &nbsp;&nbsp;O processo de escrever documentação se dará em três momentos:
 - Na primeira release do produto, quando nenhuma documentação existe e deve ser criada do zero englobando todo o produto.
