@@ -122,18 +122,18 @@ Este é o único tutorial que você realmente precisa ter em sua documentação,
 
 </details>
   
-   &nbsp;&nbsp;<details>
- &nbsp;&nbsp;<summary><strong>3.4.2Escrever guias</strong></summary>
- &nbsp;&nbsp;<br>
- &nbsp;&nbsp;Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
+  <details>
+ <summary><strong>3.4.2Escrever guias</strong></summary>
+ <br>
+ Um guia é também um passo-a-passo para realização de uma tarefa, mas difere do tutorial em seu escopo.
     
- &nbsp;&nbsp;Ao contrário de um tutorial, que cobre um processo inteiro do início ao fim, um guia é focado em uma atividade específica. “Como salvar meu projeto”, “Como adicionar um gráfico”, etc, são exemplos de guias.
+ Ao contrário de um tutorial, que cobre um processo inteiro do início ao fim, um guia é focado em uma atividade específica. “Como salvar meu projeto”, “Como adicionar um gráfico”, etc, são exemplos de guias.
     
- &nbsp;&nbsp;Pense em atividade granulares que serão frequentemente realizadas pelos seus usuários independente do projeto. Escreva seus guias focados na atividade, com o mínimo de passos necessários.
+ Pense em atividade granulares que serão frequentemente realizadas pelos seus usuários independente do projeto. Escreva seus guias focados na atividade, com o mínimo de passos necessários.
     
- &nbsp;&nbsp;Fora isso, os mesmos princípios de escrita descritos anteriormente se aplicam.
+ Fora isso, os mesmos princípios de escrita descritos anteriormente se aplicam.
 
- &nbsp;&nbsp;</details>
+ </details>
 
   <details>
 <summary><strong>3.4.3 Escrever referências</strong></summary>
