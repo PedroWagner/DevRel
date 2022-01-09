@@ -225,7 +225,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 <details>
 <summary><strong>3.6. Coletar métricas de sucesso</strong></summary>
-<br>
+
  &nbsp;&nbsp;Como sempre, definir as métricas de sucesso dependem da definição de sucesso da atividade. Qual o propósito da documentação, e o faz com que ela tenha sucesso? Objetivo da documentação é instruir os leitores no uso da sua ferramenta, de forma a empoderá-los a se tornarem desenvolvedores melhores com ela.
   
  &nbsp;&nbsp;Então como você pode medir isso? Bom, se seu ambiente possui um sistema de curtidas e comentários, esse será o seu primeiro indicador de como seus leitores se sentem sobre sua documentação. Comentários em especial são os mais úteis, mas muitas poucas pessoas se dão o trabalho de escrevê-los, estando satisfeitas ou não. O número de curtidas também pode ser uma métrica esclarecedora sobre o quanto seus leitores estão felizes com cada página. Entretanto, lembre-se que números absolutos são enganadores, uma página pode ter menos curtidas simplesmente por ser menos visitada, mas possui uma razão de curtidas maior.
