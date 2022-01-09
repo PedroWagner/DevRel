@@ -1,10 +1,10 @@
 # Escrever Documentação
 
 ## 1. Introdução
+
+ &nbsp;&nbsp;Escrever documentação se refere ao processo de escrever um conjunto de artigos técnicos que instruem o usuário ao utilizar o produto. Uma documentação bem-escrita deve guiar o usuário de novato a expert no uso da ferramenta.
 <br>
-Escrever documentação se refere ao processo de escrever um conjunto de artigos técnicos que instruem o usuário ao utilizar o produto. Uma documentação bem-escrita deve guiar o usuário de novato a expert no uso da ferramenta.
-<br>
-A documentação também será o primeiro lugar aonde seus usuários irão para qualquer dúvida ou problema que tiverem. Portanto, é importante garantir não só que seus usuários possam encontrar facilmente as respostas que procuram, mas também que estas sejam claras e completas. Idealmente, nenhum usuário irá visitar a mesma página duas vezes.
+ &nbsp;&nbsp;A documentação também será o primeiro lugar aonde seus usuários irão para qualquer dúvida ou problema que tiverem. Portanto, é importante garantir não só que seus usuários possam encontrar facilmente as respostas que procuram, mas também que estas sejam claras e completas. Idealmente, nenhum usuário irá visitar a mesma página duas vezes.
 
 A documentação pode ser dividida em dois tipos:
 - Referencias técnicas: estas páginas tem o dever de introduzir uma funcionalidade do produto e detalhar todas as suas características, como parâmetros, formas de uso, resultados, e erros conhecidos.
@@ -262,8 +262,6 @@ Essas métricas de sucesso irão lhe dizer que correções você deve fazer na s
 ## 5. Checklist
 
 ### 5.1. Fazer investigação técnica do produto
-
-- <input type="checkbox" name="uchk">  <label for="uchk">Teste checkbox.</label>
   
 - <input type="checkbox" name="uchk">  Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
 
