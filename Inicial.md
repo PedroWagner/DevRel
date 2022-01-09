@@ -3,10 +3,11 @@ title: "Inicial"
 permalink: /Inicial/
 
 # Bem vindo ao TCC do Pedro
-## Pedro Wagner - DRE: 115021274
+Pedro Wagner - DRE: 115021274
+
 
 ## Manual para implementação de um programa de DevRel
-### Tudo que você precisa saber para criar e manter uma comunidade de developers
+Tudo que você precisa saber para criar e manter uma comunidade de developers
 
 <details>
 <summary>**Introdução**</summary>
@@ -27,7 +28,7 @@ Lista de atividades
 </details>
 <br>
 <details>
-<summary>**Diagramas**</summary>
+**<summary>**Diagramas**</summary>**
 <br>
 Aqui vai ter uns diagramas
 </details>
