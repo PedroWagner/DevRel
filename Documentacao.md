@@ -32,7 +32,8 @@
 <summary><strong>3.1. Fazer investigação técnica do produto</strong></summary>
  
  &nbsp;&nbsp;O primeiro passo no processo da escrita da documentação não se dá em uma página em branco, mas com o produto em si. Para poder escrever sobre ele, você deve conhecer intimamente cada pedaço, cada funcionalidade, cada botão e cada erro.
-  
+  <br>
+ 
  &nbsp;&nbsp;Isso se dará em parte por comunicação com o time de desenvolvimento e em parte por experimentação direta com o produto.
   
  &nbsp;&nbsp;Para cumprir a parte mais técnica da atividade, deve-se compor uma lista completa e organizada de todas as partes do produto, de preferencia na mesma ordem que serão encontradas por um usuário ao abrir o produto. 
