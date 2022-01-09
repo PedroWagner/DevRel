@@ -33,17 +33,22 @@
  
  &nbsp;&nbsp;O primeiro passo no processo da escrita da documentação não se dá em uma página em branco, mas com o produto em si. Para poder escrever sobre ele, você deve conhecer intimamente cada pedaço, cada funcionalidade, cada botão e cada erro.
   <br>
- 
+  <br>
  &nbsp;&nbsp;Isso se dará em parte por comunicação com o time de desenvolvimento e em parte por experimentação direta com o produto.
-  
+  <br>
+  <br>
  &nbsp;&nbsp;Para cumprir a parte mais técnica da atividade, deve-se compor uma lista completa e organizada de todas as partes do produto, de preferencia na mesma ordem que serão encontradas por um usuário ao abrir o produto. 
-  
+  <br>
+  <br>
  &nbsp;&nbsp;Por exemplo, ao abrir o Microsoft Word, você encontra, no topo da tela, uma barra de ferramentas com algumas opções, “arquivo”, “página inicial”, “inserir”, etc. Ao listar as funcionalidades do Word, é útil anotar estas opções nesta ordem. Ao clicar em cada uma destas opções, novas ferramentas se mostram, como opções de fonte, parágrafo, etc. Na sua lista, cada uma dessas opções seriam sub-itens dos seus itens principais.
-  
+  <br>
+  <br>
  &nbsp;&nbsp;Isso ajudará a organizar a sua documentação, de forma que o usuário consiga intuitivamente localizar a informação que procura da mesma forma que encontrou, no programa, a ferramenta em questão.
-  
+  <br>
+  <br>
  &nbsp;&nbsp;Outro aspecto importante para se anotar nesta etapa são os erros conhecidos, inclusive seus códigos e mensagens.
-  
+  <br>
+  <br>
  &nbsp;&nbsp;Para cada nova release do produto, é necessário repetir esse processo somente para as novas funcionalidades, ou aquelas que foram modificadas ou afetadas pelas mudanças.
 
 </details>
