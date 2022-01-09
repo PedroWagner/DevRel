@@ -1,18 +1,14 @@
 # Lista de atividades
 
-## 1.Atividade
+## 1. Atrair Devs
 
-## 2.[Escrever Documentação](https://pedrowagner.github.io/DevRel/Documentacao)
+## 2. Gerenciar Comunidade
 
-## 3.Atividade
+## 3. [Escrever Documentação](https://pedrowagner.github.io/DevRel/Documentacao)
 
-## 4.Atividade
+## 4. Produzir Conteúdo
 
-## 5.Atividade
+## 5. Participar de Eventos
 
-## 6.Atividade
-
-## 7.Atividade
-
-## 8.Atividade
+## 6. Gerenciar Redes Sociais
 
