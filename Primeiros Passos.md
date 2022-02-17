@@ -2,8 +2,8 @@
 
 ## 1. [O Pessoal](https://pedrowagner.github.io/DevRel/Pessoal.md)
 
-## 2. A Central do Desenvolvedor
+## 2. Objetivos e Trajetória
 
-## 3. A Jornada do Desenvolvedor
+## 3. Primeiros Passos
 
-## 4. Primeiros Passos
+
