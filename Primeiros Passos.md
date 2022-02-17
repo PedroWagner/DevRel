@@ -6,4 +6,6 @@
 
 ## 3. [Fazendo as preparações](https://pedrowagner.github.io/DevRel/Passos/Preparacoes.md)
 
+## 3. [Escrever Documentação](https://pedrowagner.github.io/DevRel/Atividades/Documentacao)
+
 
