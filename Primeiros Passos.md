@@ -2,8 +2,8 @@
 
 ## 1. [O Pessoal](https://pedrowagner.github.io/DevRel/Pessoal.md)
 
-## 2. Objetivos e Trajetória
+## 2. [Objetivos e Trajetória](https://pedrowagner.github.io/DevRel/Objetivos.md)
 
-## 3. Primeiros Passos
+## 3. [Fazendo as preparações](https://pedrowagner.github.io/DevRel/Preparacoes.md)
 
 
