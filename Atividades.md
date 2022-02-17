@@ -4,7 +4,7 @@
 
 ## 2. Gerenciar Comunidade
 
-## 3. [Escrever Documentação](https://pedrowagner.github.io/DevRel/Documentacao)
+## 3. [Escrever Documentação](https://pedrowagner.github.io/DevRel/Atividades/Documentacao)
 
 ## 4. Produzir Conteúdo
 
