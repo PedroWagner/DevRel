@@ -16,3 +16,9 @@
 
 ## 2. Os Papéis
  
+
+<p align="center">
+  <b>Continue Navegando:</b><br>
+  <a href="https://pedrowagner.github.io/DevRel/Primeiros Passos">Primeiros Passos</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Passos/Objetivos">Objetivos e Trajetória</a>
+</p>
