@@ -22,6 +22,6 @@
 
 <p align="center">
   <b>Continue Navegando:</b><br>
-  <a href="https://pedrowagner.github.io/DevRel/PrimeirosPassos">Primeiros Passos</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Primeiros Passos">Primeiros Passos</a> |
   <a href="https://pedrowagner.github.io/DevRel/Inicial">Página Inicial</a>
 </p>
