@@ -8,14 +8,20 @@
 
  &nbsp;&nbsp;A documentação pode ser dividida em dois tipos:
 - **Referências técnicas**: estas páginas tem o dever de introduzir uma funcionalidade do produto e detalhar todas as suas características, como parâmetros, formas de uso, resultados, e erros conhecidos.
-- **>Tutorias e guias**: o objetivo destas páginas é de treinar o usuário no uso do produto. Elas consistem de uma série de passos que irão guiar o usuário na resolução de um problema, de forma que ao final dele, o usuário estará mais capacitado para usar a ferramenta de forma independente.
+- **Tutorias e guias**: o objetivo destas páginas é de treinar o usuário no uso do produto. Elas consistem de uma série de passos que irão guiar o usuário na resolução de um problema, de forma que ao final dele, o usuário estará mais capacitado para usar a ferramenta de forma independente.
 
  &nbsp;&nbsp;Documentação de sucesso irá utilizar ambos os tipos. 
 
 
 ## 2. O Necessário
  
- &nbsp;&nbsp;Escrever documentação é responsabilidade do **produtor de conteúdo** devido a sua habilidade de escrever de forma que engaje seus devs, com auxílio opcional do  **advogado**, que irá fazer a comunicação com o time de desenvolvimento para compreensão da ferramenta.
+ ### 2.1 Atores
+ 
+ * **Ator responsável**:Escrever documentação é responsabilidade do **produtor de conteúdo** devido a sua habilidade de escrever de forma que engaje seus devs. 
+
+* **Atores participantes**: O produtor de conteúdo pode contar com auxílio opcional do **advogado**, que irá fazer a comunicação com o time de desenvolvimento para compreensão da ferramenta.
+ 
+ ### 2.2 Ferramentas
  
  &nbsp;&nbsp;Sua documentação deve ser hospedada no mesmo local onde seu produto está disponibilizado, ou seja, na sua Central do Desenvolvedor, seja ela qual for. Se você tem uma webpage para seu produto, é lá que seus usuários irão procurar a documentação. Se seu produto é acessado através de um repositório no GitHub, então é lá que ela deve ser encontrada. 
  
@@ -25,6 +31,7 @@
  
  &nbsp;&nbsp;Outras ferramentas grátis recomendadas são o [Hemingway Editor](https://hemingwayapp.com/), que irá te ajudar a tornar o seu texto mais claro e bem escrito, e o [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision), que te permitirá conhecer as estatísticas de visitação das suas páginas.
 
+ ### 2.3 Momentos de execução
  
  &nbsp;&nbsp;O processo de escrever documentação se dará em três momentos:
 - Na primeira release do produto, quando nenhuma documentação existe e deve ser criada do zero englobando todo o produto.
