@@ -13,7 +13,7 @@
  &nbsp;&nbsp;Documentação de sucesso irá utilizar ambos os tipos. 
 
 
-## 2. Ator ferramentas e etc.
+## 2. O Necessário
  
  &nbsp;&nbsp;Escrever documentação é responsabilidade do **produtor de conteúdo** devido a sua habilidade de escrever de forma que engaje seus devs, com auxílio opcional do  **advogado**, que irá fazer a comunicação com o time de desenvolvimento para compreensão da ferramenta.
  
