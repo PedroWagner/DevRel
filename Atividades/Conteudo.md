@@ -300,7 +300,7 @@
   
 &nbsp;&nbsp;Mas não basta simplesmente pedir que compartilhem sua publicação, pois qualquer membro influente da comunidade de software deve receber vários destes pedidos por dia. Eles se sentirão muito mais inclinados a fazerem isso se for conteúdo no qual tomaram parte.
   
-&nbsp;&nbsp;Por isso, táticas como, convidar membros ativos e influentes da comunidade a escrever um blog, ou a participar do seu podcasts, ou fazer raids na Twitch são tão importantes. Você precisa ajuda-los para que se disponham a ajudar você.
+&nbsp;&nbsp;Por isso, táticas como, convidar membros ativos e influentes da comunidade a escrever um blog, ou a participar do seu podcasts, ou fazer raids na Twitch são tão importantes. Além disso, você também pode se oferecer para fazer o mesmo por eles, isto é, participar dos podcasts deles, escrever seus blogs, etc. Você precisa ajuda-los para que se disponham a ajudar você.
   
 &nbsp;&nbsp;Pode parecer fazer sentido tentar ir atrás dos maiores e mais influentes produtores de conteúdo e membros da comunidade, e de fato eles serão capazes de ampliar ao máximo seu alcance. Apesar disso, estes mesmos membros, se forem grandes o suficiente, são frequentemente inacessíveis, ocupados e muito requisitados por outras pessoas. Alternativamente, pode ser mais útil se aliar a outros produtores médios e pequenos, que podem precisar de você tanto quanto você precisa deles, e portanto estão mais dispostos a ajudar. As suas comunidades podem ser pequenas, mas se forem engajadas e leais, podem ser adições muito valiosas à sua. 
 
