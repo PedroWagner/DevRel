@@ -28,7 +28,7 @@
 
 &nbsp;&nbsp;Outra medida importante de se ter em mente enquanto define seus objetivos e sua estratégia é a Jornada do Desenvolvedor. Esta Jornada é uma estrutura que representa as etapas pelas quais um desenvolvedor qualquer passa durante sua relação com o produto e a empresa.
 
-&nbsp;&nbsp;Existem algumas forma diferentes de se representar esta Jornada [3] [4], e é possível que ela varie um pouco dependendo da sua empresa e seu modelo de negócios. Neste manual, recomendamos pensar na Jornada como composta pelas seguintes etapas:
+&nbsp;&nbsp;Existem algumas forma diferentes de se representar esta Jornada, e é possível que ela varie um pouco dependendo da sua empresa e seu modelo de negócios. Neste manual, recomendamos pensar na Jornada como composta pelas seguintes etapas:
 
 *	<strong>Descoberta</strong>: Etapa em que o desenvolvedor não conhece sua empresa ou produto. Ele passa desta etapa quando faz o primeiro contato com ela.
 
@@ -54,7 +54,7 @@
 
 &nbsp;&nbsp;Os outros três objetivos são um pouco diferentes. O objetivo de produto está mais relacionado a suas interações com o time de engenharia do que com os devs, e a contribuição destes para o objetivo pode ocorrer em qualquer etapa.
 
-&nbsp;&nbsp;Similarmente, o objetivo de receita também varia com seu modelo de negócios. É possível que o momento que o dev se torna um usuário pagante ocorra junto da aquisição, da ativação, em algum momento depois, ou nunca. Existem, também, autores que diriam que DevRel não deve se preocupar ou ser encarregado de gerar receita, pois se os devs se sentirem pressionados a pagar pelo seu time de DevRel, estes podem sofrer um golpe à reputação, que pode ser extremamente danoso a seu trabalho, e potencialmente irreversível [2].
+&nbsp;&nbsp;Similarmente, o objetivo de receita também varia com seu modelo de negócios. É possível que o momento que o dev se torna um usuário pagante ocorra junto da aquisição, da ativação, em algum momento depois, ou nunca. Existem, também, autores que diriam que DevRel não deve se preocupar ou ser encarregado de gerar receita, pois se os devs se sentirem pressionados a pagar pelo seu time de DevRel, estes podem sofrer um golpe à reputação, que pode ser extremamente danoso a seu trabalho, e potencialmente irreversível.
 
 &nbsp;&nbsp;Por fim, o objetivo de retenção, ao contrário das outras, não procura mover o dev pra frente, mas sim, impedir que fique parado, que ande para trás, ou que saia completamente do caminho.
 
@@ -72,24 +72,24 @@
 
 &nbsp;&nbsp;Esta seção apresenta brevemente dez atividades comumente executadas por times de DevRel, e para que propósito você pode emprega-las. Cada uma destas atividades é detalhada mais profundamente em outros capítulos deste manual.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">Divulgar</a></strong>: O conjunto de atividades que atraem devs para seu produto e os apresentam a sua comunidade. Importante para os objetivos de Awareness e Acquisition.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">Divulgar</a></strong>: O conjunto de atividades que atraem devs para seu produto e os apresentam a sua comunidade. Importante para os objetivos de <strong>Awareness</strong> e <strong>Acquisition</strong>.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Eventos">Participar de Eventos</a></strong>: Uma atividade de divulgação particularmente importante; trata da organização de eventos como conferências e hackathons, ou da participação de 
-eventos de terceiros. Importante para Awareness.
+eventos de terceiros. Importante para <strong>Awareness</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Redes">Gerenciar Redes Sociais</a></strong>: Atividades envolvidas na manutenção e gerência dos canais da empresa como Twitter e Instagram. Importante para Awareness, Retention e Referral.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Redes">Gerenciar Redes Sociais</a></strong>: Atividades envolvidas na manutenção e gerência dos canais da empresa como Twitter e Instagram. Importante para <strong>Awareness</strong>, <strong>Retention</strong> e <strong>Referral</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">Gerenciar Comunidade</a></strong>: Atividades envolvidas na formação, nutrição e gerência de uma comunidade de desenvolvedores. Importante para todos os objetivos menos Awareness.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">Gerenciar Comunidade</a></strong>: Atividades envolvidas na formação, nutrição e gerência de uma comunidade de desenvolvedores. Importante para todos os objetivos menos <strong>Awareness</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Suporte">Oferecer Suporte</a></strong>: Monitorar canais de suporte, tanto internos quanto externos, e tanto formais quanto informais. Importante para objetivos de Activation e Retention.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Suporte">Oferecer Suporte</a></strong>: Monitorar canais de suporte, tanto internos quanto externos, e tanto formais quanto informais. Importante para objetivos de <strong>Activation</strong> e <strong>Retention</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Documentacao">Escrever Documentação</a></strong>: Criar documentação técnica para habilitar os devs em seu uso do produto. Importante para Activation e Retention.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Documentacao">Escrever Documentação</a></strong>: Criar documentação técnica para habilitar os devs em seu uso do produto. Importante para <strong>Activation</strong> e <strong>Retention</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a></strong>: Atividades de criar conteúdo sobre seu produto ou empresa para educar e entreter, por exemplo, escrever blogs, criar vídeos, etc. Importante para Acquisition, Activation, Retention e Referral.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a></strong>: Atividades de criar conteúdo sobre seu produto ou empresa para educar e entreter, por exemplo, escrever blogs, criar vídeos, etc. Importante para <strong>Acquisition</strong>, <strong>Activation</strong>, <strong>Retention</strong> e <strong>Referral</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Coletar Feedback</a></strong>: Atividade referente a captar os sentimentos dos membros comunidade sobre seu produto, quer eles te falando diretamente ou não. Importante para Retention e Product.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Coletar Feedback</a></strong>: Atividade referente a captar os sentimentos dos membros comunidade sobre seu produto, quer eles te falando diretamente ou não. Importante para <strong>Retention</strong> e <strong>Product</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Produto">Contribuir ao Produto</a></strong>: Atividade de colaborar com o time de engenharia para fazer contribuições concretas ao produto de forma a melhorar a Developer Experience. Importante para Retention e Product.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Produto">Contribuir ao Produto</a></strong>: Atividade de colaborar com o time de engenharia para fazer contribuições concretas ao produto de forma a melhorar a Developer Experience. Importante para <strong>Retention</strong> e <strong>Product</strong>.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Colaborar">Colaborar com outros setores</a></strong>: Atividade de manter relações produtivas e mutuamente benéficas com outros setores de companhia. Importante para qualquer objetivo, mas não diretamente.
 
