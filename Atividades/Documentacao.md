@@ -7,8 +7,8 @@
  &nbsp;&nbsp;A documentação também será o primeiro lugar aonde seus usuários irão para qualquer dúvida ou problema que tiverem. Portanto, é importante garantir não só que seus usuários possam encontrar facilmente as respostas que procuram, mas também que estas sejam claras e completas. Idealmente, nenhum usuário irá visitar a mesma página duas vezes.
 
  &nbsp;&nbsp;A documentação pode ser dividida em dois tipos:
-- Referencias técnicas: estas páginas tem o dever de introduzir uma funcionalidade do produto e detalhar todas as suas características, como parâmetros, formas de uso, resultados, e erros conhecidos.
-- Tutorias e guias: o objetivo destas páginas é de treinar o usuário no uso do produto. Elas consistem de uma série de passos que irão guiar o usuário na resolução de um problema, de forma que ao final dele, o usuário estará mais capacitado para usar a ferramenta de forma independente.
+- **Referências técnicas**: estas páginas tem o dever de introduzir uma funcionalidade do produto e detalhar todas as suas características, como parâmetros, formas de uso, resultados, e erros conhecidos.
+- **>Tutorias e guias**: o objetivo destas páginas é de treinar o usuário no uso do produto. Elas consistem de uma série de passos que irão guiar o usuário na resolução de um problema, de forma que ao final dele, o usuário estará mais capacitado para usar a ferramenta de forma independente.
 
  &nbsp;&nbsp;Documentação de sucesso irá utilizar ambos os tipos. 
 
@@ -17,7 +17,7 @@
  
  &nbsp;&nbsp;Escrever documentação é responsabilidade do **produtor de conteúdo** devido a sua habilidade de escrever de forma que engaje seus devs, com auxílio opcional do  **advogado**, que irá fazer a comunicação com o time de desenvolvimento para compreensão da ferramenta.
  
- &nbsp;&nbsp;Sua documentação deve ser hospedada no mesmo local onde seu produto está disponibilizado. Se você tem uma webpage para seu produto, é lá que  seus usuários irão procurar a documentação. Se seu produto é acessado através de um repositório no GitHub, então é lá que ela deve ser encontrada.
+ &nbsp;&nbsp;Sua documentação deve ser hospedada no mesmo local onde seu produto está disponibilizado, ou seja, na sua Central do Desenvolvedor, seja ela qual for. Se você tem uma webpage para seu produto, é lá que seus usuários irão procurar a documentação. Se seu produto é acessado através de um repositório no GitHub, então é lá que ela deve ser encontrada. 
  
  &nbsp;&nbsp;Existem diversas ferramentas disponíveis no mercado para te ajudar a escrever e disponibilizar documentação. Algumas das mais usadas incluem [Document360](https://document360.com/) e [ClickHelp](https://clickhelp.com/). Estas ferramentas possuem diversas funcionalidades que irão facilitar enormemente o seu trabalho. Inclusive várias das atividades descritas na próxima seção podem ser feitas automaticamente usando esses e outros programas. Por outro lado, o preço de entrada pode variar de cinquenta a cem dólares.
  
@@ -127,7 +127,7 @@
  &nbsp;&nbsp;Uma vez que esteja satisfeito com seu texto, é preciso ilustrá-lo com a ajuda de diagramas ou imagens. Uma destas vale mais do que mil palavras, então porque você deveria descrever em detalhes o layout de uma página para localizar um botão quando você pode simplesmente colocar uma captura de tela, e fazê-lo visualmente? Uma boa métrica é ter pelo menos uma imagem por cabeçalho, ou cada vez que, ao seguir seu guia ou tutorial, o usuário encontrar uma tela nova no programa. Uma imagem não precisa ser somente uma foto da tela, pode ser também um diagrama que ilustre um processo, por exemplo. Não se esqueça de escrever legendas acompanhando as imagens, isso é muito importante para pessoas com dificuldades visuais que usam leitores de tela.
   <br>
   <br>
- &nbsp;&nbsp;Feito isso, a sua página está pronta, mas faltam ainda alguns detalhes que ajudam e muito na organização e capacidade de pesquisa. O primeiro é o de relacionar páginas entre si. Crie no final da página uma seção de “veja também” com links para outras páginas de documentação que se relacionem de alguma forma com a atual. Por exemplo, se estiver escrevendo um tutorial para design de UI, você pode colocar um link para uma referência técnica da ferramenta técnica de design, e vice-versa. Isso ajuda não somente a evitar a duplicação de informação, quanto ajuda o usuário a encontrar mais recursos para ajuda-lo em seu trabalho. Lembre-se de fazer os links dos dois lados, se a página A aponta para a página B, é natural que B também aponte para A.
+ &nbsp;&nbsp;Feito isso, a sua página está pronta, mas faltam ainda alguns detalhes que ajudam e muito na organização e capacidade de pesquisa. O primeiro é o de relacionar páginas entre si. Crie no final da página uma seção de “veja também” com links para outras páginas de documentação que se relacionem de alguma forma com a atual. Por exemplo, se estiver escrevendo um tutorial para design de UI, você pode colocar um link para uma referência técnica da ferramenta técnica de design, e vice-versa. Isso ajuda não somente a evitar a duplicação de informação, quanto ajuda o usuário a encontrar mais recursos para ajuda-lo em seu trabalho. Lembre-se de fazer os links dos dois lados, se a página A aponta para a página B, é natural que B também aponte para A. Se durante a atividade de <a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">produção de conteúdo</a> você tiver criado algo, como um blog ou um vídeo, que trate do mesmo assunto, você também pode fazer um link para ele.
   <br>
   <br>
  &nbsp;&nbsp;Se sua ferramenta permitir, procure implementar um sistema de etiquetas, ou “tags”. Para cada página, pense em palavras-chaves que se relacionem ao texto e as adicione como rótulos, que permitam que a página seja buscada por esses termos. Da mesma forma que escreveu o texto, tente pensar nas palavras que o cliente usaria para encontrar a informação desta página.
@@ -158,7 +158,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;O primeiro e mais importante tutorial que você precisa escrever é um chamado “Começando” ou algo parecido. Este tutorial deve levar o leitor dos primeiros passos ao usar a ferramenta até a realização de um projeto simples.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Este é o único tutorial que você realmente precisa ter em sua documentação, mas você sempre pode escrever mais que cubram outros aspectos.
+ &nbsp;&nbsp; &nbsp;&nbsp;Este é o único tutorial que você realmente precisa ter em sua documentação, mas você sempre pode escrever mais que cubram outros aspectos. Procure pensar em todos os casos de uso do seu produto, os possíveis projetos que podem ser feitos com ele, e crie um tutorial que trate de cada um.
 
 </details>
   
@@ -248,7 +248,13 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;Se alguma funcionalidade existente teve seu comportamento modificado de alguma forma, você deve encontrar as páginas que fazem referência a ela e editá-las para refletir o estado atual do produto. É nesta hora que a falta de duplicação de informação e os links para as páginas relacionadas serão de grande ajuda para você.
   <br>
   <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;Se, em algum momento, passam a existir duas ou mais versões do seu produto em uso no mercado, é essencial que você indique qualquer diferença entre as duas versões na documentação.
+ <br>
+  <br>
  &nbsp;&nbsp; &nbsp;&nbsp;Algo que você também pode incluir na sua documentação a partir da segunda revisão, em parceria com o time de suporte e o gerente da comunidade, é uma seção de Perguntas Frequentes. Idealmente, essas perguntas deveriam ser respondidas pela própria documentação, e ter uma seção dedicada para elas arrisca duplicar a informação, mas a realidade é que muitos usuários irão procurar por essa seção antes de qualquer outra, então pode ser útil tê-la.
+ <br>
+ <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;Outra adição útil a sua documentação é um log de mudanças. Faça uma lista de alterações feitas no produto na última release e a disponibilize junto da sua documentação, ou na Central do Desenvolvedor. Esta lista irá mostrar aos seus desenvolvedores, e também a usuários potenciais avaliando seus recursos, que seu produto está sendo atualizado e melhorado. Você também pode fazer com que cada item da lista seja um link para uma página relevante.
 
 </details>
   
@@ -469,6 +475,12 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 - <input type="checkbox" name="uchk"> Alguma funcionalidade existente foi modificada?
 
 - <input type="checkbox" name="uchk"> Todas as páginas que fazem referência a essa funcionalidade foram editadas para refletir seu estado atual?
+
+- <input type="checkbox" name="uchk"> Todas as diferenças entre as versões ativas do seu produto estão marcadas e contempladas?
+
+- <input type="checkbox" name="uchk"> Você criou uma página de FAQ?
+
+- <input type="checkbox" name="uchk"> Você criou um log de mudanças para a última release?
 
 
 **Corrigir documentação**
