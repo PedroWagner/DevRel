@@ -40,6 +40,7 @@
 * <strong>Advogado</strong>: Responsável por representar os interesses da comunidade dentro da companhia, daí o nome (note que este nome é usado por outros autores para se referir a diversas funções). Este papel é associado com a área de Developer Success. É a ponte entre os devs externos e os times internos. Seu tempo será primariamente gasto coletando e interpretando feedback e métricas, se reunindo com stakeholders, colaborando com outros times, e até participando do desenvolvimento do produto. Característica mais importante é a empatia.
 
 * <strong>Gerente de comunidade</strong>: Responsável por formar e nutrir a comunidade, que é o que suporta e habilita todas as outras áreas de DevRel. Vai ser a pessoa que seus clientes irão procurar para resolver seus problemas, pedir ajuda, ou até mesmo simplesmente conversar. Seu tempo será gasto monitorando fóruns, construindo relações, oferecendo suporte, e fomentando um sentimento de comunidade. Características mais importantes são a empatia e a extroversão.
+
 &nbsp;&nbsp;Note que todos os papéis precisam de todas as características mencionadas anteriormente algum nível, e todos precisam de bom conhecimento técnico do produto.
 
 &nbsp;&nbsp;Como outras diretrizes neste guia, estes quatro papéis não são uma regra rigorosa. Não é necessário que você tenha um membro do time correspondendo exatamente a um papel. Mais de uma pessoa pode exercer o mesmo papel, e uma pessoa pode exercer mais de um papel. É até possível, em programas pequenos e iniciantes, que uma pessoa exerça todos os papéis.
