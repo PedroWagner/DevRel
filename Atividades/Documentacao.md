@@ -83,8 +83,7 @@
  &nbsp;&nbsp;Usando o Word novamente como exemplo, mudar o tamanho ou estilo da fonte é simples, e dificilmente requer explicação; ajustar as margens é um pouco mais complicado; e quantos de nós nunca tivemos uma dor de cabeça tremenda ao tentar formatar nossas imagens dentro de nosso texto? Dessa forma, mudar o tamanho da fonte não precisa de mais de uma frase na documentação, mas formatação de texto com imagens precisa de uma explicação detalhada.
 
 </details>
-  <br>
-  <br>
+ 
 <details>
 <summary><strong>3.3. Organizar documentação</strong></summary>
  <br>
@@ -107,8 +106,7 @@
  &nbsp;&nbsp;Ao fim da sua lista de categorias você pode adicionar uma única categoria para as referências técnicas, ou seja, para a explicação de cada funcionalidade. Esta categoria vai ser então subdividida de acordo com a lista que você fez na seção 4.3.1
 
 </details>
-  <br>
-  <br>
+  
 <details>
 <summary><strong>3.4. Escrever documentação</strong></summary>
 <br>
@@ -315,8 +313,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 </details>
   
 </details>
-  <br>
-  <br>
+  
 <details>
 <summary><strong>3.6. Coletar métricas</strong></summary>
 <br>
