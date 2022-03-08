@@ -17,7 +17,7 @@
 
 ### 2.3 Momentos de Execução
 
-## 3. Sub-processos e diretrizes
+## 3. Subatividades e diretrizes
 
 <details>
 <summary><strong>3.1. Fazer investigação técnica do produto</strong></summary>
@@ -32,14 +32,8 @@
 </details>
 </details>
 
-## 4. Diagramas
 
-<br>
-
-![Image](https://i.imgur.com/1sLi7Qf.png)
-<br>
-
-## 5. Checklist
+## 4. Checklist
 
 - <input type="checkbox" name="uchk">
 
