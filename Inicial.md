@@ -6,8 +6,8 @@ Pedro Wagner - DRE: 115021274
 ## Manual para implementação de um programa de DevRel
 Tudo que você precisa saber para criar e manter uma comunidade de developers
 
-<details>
-<summary><strong>Introdução</strong></summary>
+
+### Introdução
 <br>
 &nbsp;&nbsp;Se você abriu este manual, é provável que esteja interessado na prática de Developer Relations, e portanto, já está ciente do que se trata. Porém, caso não esteja, esta seção lhe dirá o básico que precisa saber para usufruir do restante do manual.
  <br>
@@ -34,25 +34,17 @@ Tudo que você precisa saber para criar e manter uma comunidade de developers
  <br>
  <br>
 &nbsp;&nbsp;Como a realidade de um programa de DevRel pode variar muito de empresa para empresa e de produto para produto, nem sempre será possível ou útil seguir a risca as diretrizes deste manual. Se for o caso, não tem problema! Nem sempre você poderá cumprir cada item da checklist, e você poderá perceber quer certas atividades precisam ser adaptadas para se encaixar à sua realidade. Este manual contém diretrizes e conselhos, não uma lista de regras que precisam ser seguidas à risca.
+<br>
 
-</details>
-<br>
-<details>
-<summary><strong>Os Primeiros Passos</strong></summary>
-<br>
-<a href="https://pedrowagner.github.io/DevRel/Primeiros Passos">Clique para começar a pensar seu programa!</a>
-</details>
-<br>
-<details>
-<summary><strong>Atividades</strong></summary>
- <br>
+
+### Os Primeiros Passos
+
+Quer saber como começar seu programa? Veja nossos recomendados primeiros passos clicando [aqui](https://pedrowagner.github.io/DevRel/Primeiros%20Passos)
+
+### Atividades
  
-<a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a>
+Está com seu programa em posição de lançamento? Aprenda as atividades que compõem o dia-a-dia de DevRel clicando [aqui](https://pedrowagner.github.io/DevRel/Atividades)
  
-</details>
-<br>
-<details>
-<summary><strong>Diagramas</strong></summary>
-<br>
-Aqui vai ter uns diagramas
-</details>
+### Considerações Futuras
+
+Está com seu programa montado e funcionando? Parabéns! Se quiser ter uma ideia de como continuar a crescer no futuro, clique [aqui](https://pedrowagner.github.io/DevRel/Futuro)
