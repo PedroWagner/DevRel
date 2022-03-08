@@ -15,13 +15,13 @@
 
 ## 2. O Necessário
  
- ### 2.1 Atores
+### 2.1 Atores
  
  * **Ator responsável**:Escrever documentação é responsabilidade do **produtor de conteúdo** devido a sua habilidade de escrever de forma que engaje seus devs. 
 
 * **Atores participantes**: O produtor de conteúdo pode contar com auxílio opcional do **advogado**, que irá fazer a comunicação com o time de desenvolvimento para compreensão da ferramenta.
  
- ### 2.2 Ferramentas
+### 2.2 Ferramentas
  
  &nbsp;&nbsp;Sua documentação deve ser hospedada no mesmo local onde seu produto está disponibilizado, ou seja, na sua Central do Desenvolvedor, seja ela qual for. Se você tem uma webpage para seu produto, é lá que seus usuários irão procurar a documentação. Se seu produto é acessado através de um repositório no GitHub, então é lá que ela deve ser encontrada. 
  
@@ -31,7 +31,7 @@
  
  &nbsp;&nbsp;Outras ferramentas grátis recomendadas são o [Hemingway Editor](https://hemingwayapp.com/), que irá te ajudar a tornar o seu texto mais claro e bem escrito, e o [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision), que te permitirá conhecer as estatísticas de visitação das suas páginas.
 
- ### 2.3 Momentos de execução
+### 2.3 Momentos de execução
  
  &nbsp;&nbsp;O processo de escrever documentação se dará em três momentos:
 - Na primeira release do produto, quando nenhuma documentação existe e deve ser criada do zero englobando todo o produto.
@@ -63,7 +63,8 @@
   <br>
   <br>
  &nbsp;&nbsp;Para cada nova release do produto, é necessário repetir esse processo somente para as novas funcionalidades, ou aquelas que foram modificadas ou afetadas pelas mudanças.
-
+  <br>
+  <br>
 </details>
 
 <details>
@@ -82,7 +83,8 @@
  &nbsp;&nbsp;Usando o Word novamente como exemplo, mudar o tamanho ou estilo da fonte é simples, e dificilmente requer explicação; ajustar as margens é um pouco mais complicado; e quantos de nós nunca tivemos uma dor de cabeça tremenda ao tentar formatar nossas imagens dentro de nosso texto? Dessa forma, mudar o tamanho da fonte não precisa de mais de uma frase na documentação, mas formatação de texto com imagens precisa de uma explicação detalhada.
 
 </details>
-
+  <br>
+  <br>
 <details>
 <summary><strong>3.3. Organizar documentação</strong></summary>
  <br>
@@ -105,7 +107,8 @@
  &nbsp;&nbsp;Ao fim da sua lista de categorias você pode adicionar uma única categoria para as referências técnicas, ou seja, para a explicação de cada funcionalidade. Esta categoria vai ser então subdividida de acordo com a lista que você fez na seção 4.3.1
 
 </details>
-
+  <br>
+  <br>
 <details>
 <summary><strong>3.4. Escrever documentação</strong></summary>
 <br>
@@ -142,7 +145,8 @@
   <br>
  &nbsp;&nbsp;Garanta que a data em que escreveu cada página está visível, pois isso indicará aos seus leitores se ela está atual ou não.
 Por fim, se o ambiente da sua documentação permitir, procure incorporar um sistema de curtidas e comentários. Isso o ajudará a medir o engajamento dos seus leitores e o sucesso da sua documentação.
-  
+ <br>
+  <br>
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.1. Escrever tutoriais</strong></summary>
 <br>
@@ -168,7 +172,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;Este é o único tutorial que você realmente precisa ter em sua documentação, mas você sempre pode escrever mais que cubram outros aspectos. Procure pensar em todos os casos de uso do seu produto, os possíveis projetos que podem ser feitos com ele, e crie um tutorial que trate de cada um.
 
 </details>
-  
+    <br>
+  <br>
   <details>
  <summary><strong> &nbsp;&nbsp;3.4.2Escrever guias</strong></summary>
 <br>
@@ -185,7 +190,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   &nbsp;&nbsp; &nbsp;&nbsp;Fora isso, os mesmos princípios de escrita descritos anteriormente se aplicam.
 
  </details>
-
+  <br>
+  <br>
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.3 Escrever referências</strong></summary>
 <br>
@@ -202,7 +208,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;Fora isso, os mesmos princípios de escrita descritos nas seções anteriores se aplicam.
 
 </details>
-
+  <br>
+  <br>
   <details>
 <summary><strong> &nbsp;&nbsp;3.4.4 Escrever exemplos de código</strong></summary>
 <br>
@@ -210,23 +217,23 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;Um passo opcional que você pode querer dar na sua documentação é incluir exemplos de código. Estes chamam a atenção dos seus leitores e talvez possam ajuda-los muito mais que os textos mais bem escritos.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Escrever estes exemplos vai depender muito do seu produto, mas alguns princípios são universais.
+ &nbsp;&nbsp; &nbsp;&nbsp;Escrever estes exemplos vai depender muito do seu produto, mas alguns princípios são universais.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Escreva exemplos que resolvam algum problema real, que você espera que os seus usuários encontrem. Não adianta o código ser bonito e impressionante se nunca será usado na prática.
+ &nbsp;&nbsp; &nbsp;&nbsp;Escreva exemplos que resolvam algum problema real, que você espera que os seus usuários encontrem. Não adianta o código ser bonito e impressionante se nunca será usado na prática.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Espere que seu código seja copiado e colado com frequência. O que isso significa é que seu código deve funcionar independente de onde seja colocado. Por exemplo, não escreva código que referencie ou acesse uma pasta que só existe no seu computador, ou que só funciona em dados sistemas operacionais.
+ &nbsp;&nbsp; &nbsp;&nbsp;Espere que seu código seja copiado e colado com frequência. O que isso significa é que seu código deve funcionar independente de onde seja colocado. Por exemplo, não escreva código que referencie ou acesse uma pasta que só existe no seu computador, ou que só funciona em dados sistemas operacionais.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Por fim, escreva um código limpo e de fácil compreensão. Deixe de lado as suas mal práticas de escrita de código e comente todas as linhas.
+ &nbsp;&nbsp; &nbsp;&nbsp;Por fim, escreva um código limpo e de fácil compreensão. Deixe de lado as suas mal práticas de escrita de código e comente todas as linhas.
     <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Se a plataforma onde está disponibilizando sua documentação permitir, faça com que o código possa ser testado direto na página.
+ &nbsp;&nbsp; &nbsp;&nbsp;Se a plataforma onde está disponibilizando sua documentação permitir, faça com que o código possa ser testado direto na página.
 
 </details>
-
-
+  <br>
+  <br>
 </details>
 
 <details>
@@ -241,7 +248,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   <br>
  &nbsp;&nbsp;Existem duas atividades de revisão de documentação: atualização, que deve ser feita a cada release significativo do seu produto; e correção, que deve ser feita a períodos regulares de sua preferência.
 
-  
+    <br>
+  <br>
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.1 Atualizar documentação</strong></summary>
 <br>
@@ -265,7 +273,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 </details>
   
-  
+    <br>
+  <br>
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.2 Corrigir documentação</strong></summary>
 <br>
@@ -286,7 +295,8 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 </details>
   
-  
+    <br>
+  <br>
 <details>
 <summary><strong> &nbsp;&nbsp;3.5.3 Criar listas de acesso rápido</strong></summary>
 <br>
@@ -305,9 +315,10 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 </details>
   
 </details>
-
+  <br>
+  <br>
 <details>
-<summary><strong>3.6. Coletar métricas de sucesso</strong></summary>
+<summary><strong>3.6. Coletar métricas</strong></summary>
 <br>
   <br>
  &nbsp;&nbsp;Como sempre, definir as métricas de sucesso dependem da definição de sucesso da atividade. Qual o propósito da documentação, e o faz com que ela tenha sucesso? Objetivo da documentação é instruir os leitores no uso da sua ferramenta, de forma a empoderá-los a se tornarem desenvolvedores melhores com ela.
@@ -332,27 +343,9 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 </details>
 
-## 4. Diagramas
+## 4. Checklist
 
-### 4.1. No primeiro release do produto
-<br>
-
-![Image](https://i.imgur.com/zIWrt86.png)
-<br>
-### 4.2. Depois de cada release subsequente
-<br>
-
-![Image](https://i.imgur.com/Bp2bucC.png)
-<br>
-### 4.3. Periodicamente
-<br>
-
-![Image](https://i.imgur.com/1sLi7Qf.png)
-<br>
-
-## 5. Checklist
-
-### 5.1. Fazer investigação técnica do produto
+### 4.1. Fazer investigação técnica do produto
   
 - <input type="checkbox" name="uchk">  Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
 
@@ -366,7 +359,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Você esteve em contato com o time de desenvolvimento para averiguar a completude de sua lista?
 
-### 5.2. Fazer investigação empática do produto
+### 4.2. Fazer investigação empática do produto
 
 - <input type="checkbox" name="uchk"> Você consegue identificar as razões pelas quais alguém usaria seu produto, e o que tentariam fazer com ele?
 
@@ -376,7 +369,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Você saberia, com assistência do time de desenvolvimento, guiar um novo usuário tentando fazer a mesma coisa de forma que ele não tivesse os mesmos problemas que você?
 
-### 5.3. Organizar documentação
+### 4.3. Organizar documentação
 
 - <input type="checkbox" name="uchk"> Você possui uma lista de atividades que irá detalhar por meio de guias e tutoriais?
 
@@ -391,7 +384,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 - <input type="checkbox" name="uchk"> Esta seção está subdividida e ordenada de forma a refletir a estrutura do seu produto?
 
 
-### 5.4. Escrever documentação
+### 4.4. Escrever documentação
 
 - <input type="checkbox" name="uchk"> Você deu ao seu documento um título claro e instrutivo?
 
@@ -471,7 +464,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 - <input type="checkbox" name="uchk"> Seu código pode ser testado direto na página?
 
 
-### 5.5. Revisar documentação
+### 4.5. Revisar documentação
 
 **Atualizar documentação**
 
@@ -502,7 +495,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Você criou uma lista similar para páginas recém-atualizadas?
 
-### 5.6. Coletar métricas de sucesso
+### 4.6. Coletar métricas
 
 - <input type="checkbox" name="uchk"> Caso se aplique, você leu os comentários nas suas páginas?
 
