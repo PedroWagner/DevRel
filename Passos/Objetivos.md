@@ -10,7 +10,7 @@
 
 *	<strong>Awareness</strong>: Estar ciente, em português. Fazer o público geral estar ciente de sua empresa e seu produto.
 
-*	<strong>Acquisition</strong>: Aquisição, em português. Fazer uma pessoa, já ciente do produto, o adquira, seja como isso se dá com seu produto.
+*	<strong>Acquisition</strong>: Aquisição, em português. Fazer com que uma pessoa, já ciente do produto, o adquira, seja como isso se dá com seu produto.
 
 *	<strong>Activation</strong>: Ativação, e português. Fazer com que uma pessoa, já de posse do seu produto, se torne um usuário ativo.
 
@@ -22,13 +22,13 @@
 
 *	<strong>Product</strong>: Produto, em português. Fazer contribuições ao produto.
 
-&nbsp;&nbsp;Para se definir uma estratégia de DevRel, é recomendável olhar para estas opções e escolher uma que reflitam os objetivos da companhia no momento. Então, focar seus esforços em atividades que apoiem o objetivo escolhido, definindo uma ou mais métricas chaves para medir seu progresso. Por exemplo, se você escolhe focar em Activation, você pode definir que tentará o número de usuários ativos em tanto por cento em tal período de tempo.
+&nbsp;&nbsp;Para se definir uma estratégia de DevRel, é recomendável olhar para estas opções e escolher uma que reflita os objetivos da companhia no momento. Então, focar seus esforços em atividades que apoiem o objetivo escolhido, definindo uma ou mais métricas chaves para medir seu progresso. Por exemplo, se você escolhe focar em Activation, você pode definir que tentará aumentar o número de usuários ativos em tanto por cento em tal período de tempo.
 
 ## 2. A Jornada do Desenvolvedor
 
 &nbsp;&nbsp;Outra medida importante de se ter em mente enquanto define seus objetivos e sua estratégia é a Jornada do Desenvolvedor. Esta Jornada é uma estrutura que representa as etapas pelas quais um desenvolvedor qualquer passa durante sua relação com o produto e a empresa.
 
-&nbsp;&nbsp;Existem algumas forma diferentes de se representar esta Jornada, e é possível que ela varie um pouco dependendo da sua empresa e seu modelo de negócios. Neste manual, recomendamos pensar na Jornada como composta pelas seguintes etapas:
+&nbsp;&nbsp;Existem algumas formas diferentes de se representar esta Jornada, e é possível que ela varie um pouco dependendo da sua empresa e seu modelo de negócios. Neste manual, recomendamos pensar na Jornada como composta pelas seguintes etapas:
 
 *	<strong>Descoberta</strong>: Etapa em que o desenvolvedor não conhece sua empresa ou produto. Ele passa desta etapa quando faz o primeiro contato com ela.
 
@@ -38,7 +38,7 @@
 
 *	<strong>Crescimento</strong>: Etapa em que o desenvolvedor se torna um usuário ativo (e, preferencialmente, pagante) do produto. Ele o usa para seus projetos e para o trabalho. A maior parte dos usuários irá se assentar nesta etapa.
 
-*	<strong>Referência</strong>: A etapa em que o desenvolvedor se torna referência para outros. Ele é usado pela sua empresa como exemplo, recomenda seu produto para outros, e se torna embaixador da marca. Nesta etapa também se encontram os membros da comunidade especialmente leais, que você entra regularmente em contato direto. Realisticamente, uma pequena fração dos devs passa por esta etapa.
+*	<strong>Referência</strong>: A etapa em que o desenvolvedor se torna reconhecido em uma comunidade, e se torna uma referência para esta. Ele é usado pela sua empresa como exemplo, recomenda seu produto para outros, e se torna embaixador da marca. Nesta etapa também se encontram os membros da comunidade especialmente leais, que você entra regularmente em contato direto. Realisticamente, uma pequena fração dos devs passa por esta etapa.
 
 &nbsp;&nbsp;No geral, você pode enxergar o dever central de DevRel como sendo mover os desenvolvedores ao longo deste processo, executando atividades que levem-nos ao marco que representa o fim de cada etapa.
 
@@ -58,7 +58,7 @@
 
 &nbsp;&nbsp;Por fim, o objetivo de retenção, ao contrário das outras, não procura mover o dev pra frente, mas sim, impedir que fique parado, que ande para trás, ou que saia completamente do caminho.
 
-&nbsp;&nbsp;A Jornada do Desenvolvedor é um pouco como um castelo de areia. Para que uma pilha de areia se torne um castelo, é preciso que alguém a molde; ela nunca irá espontaneamente se tornar um castelo. Por outro lado, um castelo, deixado ao lento, irá eventualmente se desfazer, a menos que haja um esforço para mantê-lo.
+&nbsp;&nbsp;A Jornada do Desenvolvedor é um pouco como um castelo de areia. Para que uma pilha de areia se torne um castelo, é preciso que alguém a molde; ela nunca irá espontaneamente se tornar um castelo. Por outro lado, um castelo, deixado ao leu, irá eventualmente se desfazer, a menos que haja um esforço para mantê-lo.
 
 &nbsp;&nbsp;A Jornada do Desenvolvedor segue o mesmo princípio entrópico. É pelos seus esforços que o dev progredirá na jornada, mas se você os abandonar, eles eventualmente irão perder interesse, encontrar outros produtos, e o abandonar também.
 
@@ -81,15 +81,11 @@ eventos de terceiros. Importante para <strong>Awareness</strong>.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">Gerenciar Comunidade</a></strong>: Atividades envolvidas na formação, nutrição e gerência de uma comunidade de desenvolvedores. Importante para todos os objetivos menos <strong>Awareness</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Suporte">Oferecer Suporte</a></strong>: Monitorar canais de suporte, tanto internos quanto externos, e tanto formais quanto informais. Importante para objetivos de <strong>Activation</strong> e <strong>Retention</strong>.
-
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Documentacao">Escrever Documentação</a></strong>: Criar documentação técnica para habilitar os devs em seu uso do produto. Importante para <strong>Activation</strong> e <strong>Retention</strong>.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a></strong>: Atividades de criar conteúdo sobre seu produto ou empresa para educar e entreter, por exemplo, escrever blogs, criar vídeos, etc. Importante para <strong>Acquisition</strong>, <strong>Activation</strong>, <strong>Retention</strong> e <strong>Referral</strong>.
 
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Coletar Feedback</a></strong>: Atividade referente a captar os sentimentos dos membros comunidade sobre seu produto, quer eles te falando diretamente ou não. Importante para <strong>Retention</strong> e <strong>Product</strong>.
-
-*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Produto">Contribuir ao Produto</a></strong>: Atividade de colaborar com o time de engenharia para fazer contribuições concretas ao produto de forma a melhorar a Developer Experience. Importante para <strong>Retention</strong> e <strong>Product</strong>.
+*	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Representar o Desenvolvedor</a></strong>: Atividade referente a captar os sentimentos dos membros comunidade sobre seu produto, e representar esta voz dentro da sua empresa. Importante para <strong>Retention</strong> e <strong>Product</strong>.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Colaborar">Colaborar com outros setores</a></strong>: Atividade de manter relações produtivas e mutuamente benéficas com outros setores de companhia. Importante para qualquer objetivo, mas não diretamente.
 
