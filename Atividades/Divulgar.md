@@ -70,7 +70,7 @@
 <summary><strong>3.2. Aperfeiçoar a Central do Desenvolvedor</strong></summary>
   <br>
   <br>
- &nbsp;&nbsp;[No capítulo anterior](https://pedrowagner.github.io/DevRel/Passos/Preparacoes), discutimos a Central do Desenvolvedor superficialmente; o que ela é, e o que precisa ter. Neste capítulo, entramos em mais detalhes sobre como torna-la a ferramenta de conversão perfeita.
+ &nbsp;&nbsp;<a href="https://pedrowagner.github.io/DevRel/Passos/Preparacoes">No capítulo anterior</a>, discutimos a Central do Desenvolvedor superficialmente; o que ela é, e o que precisa ter. Neste capítulo, entramos em mais detalhes sobre como torna-la a ferramenta de conversão perfeita.
   <br>
   <br>
 &nbsp;&nbsp;Todos os seus esforços de publicidade terão o objetivo de direcionar o dev para sua Central do Desenvolvedor. Este é o momento em que o dev irá se inteirar do seu produto e decidir se irá usá-lo ou não. Portanto, sua Central, ou mais especificamente, a página do seu produto, precisa ser inteiramente planejada de forma a maximizar a taxa de conversão dos visitantes.
