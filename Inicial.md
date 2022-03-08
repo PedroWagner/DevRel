@@ -30,10 +30,10 @@ Tudo que você precisa saber para criar e manter uma comunidade de developers
 &nbsp;&nbsp;DevRel geralmente envolve práticas como criar estratégias de divulgação especializadas, produção de conteúdo, e talvez mais notavelmente, a criação e manutenção de uma comunidade de desenvolvedores interessados no seu produto.
  <br>
  <br>
-&nbsp;&nbsp;Este manual procura apresentar alguns modelos teóricos de alto nível para ajudar na estruturação e implementação de um programa de DevRel, assim como descrições detalhadas de como realizar as tarefas diárias da profissão. Os próximos capítulos detalharão o que você deve fazer, recomendarão formas de fazer e quais ferramentas usar, e icluirão checklists para que você possa avaliar seu progresso.
+&nbsp;&nbsp;Este manual procura apresentar alguns modelos teóricos de alto nível para ajudar na estruturação e implementação de um programa de DevRel, assim como descrições detalhadas de como realizar as tarefas diárias da profissão. Os próximos capítulos detalharão o que você deve fazer, recomendarão formas de fazer e quais ferramentas usar, e incluirão checklists para que você possa avaliar seu progresso.
  <br>
  <br>
-&nbsp;&nbsp;Como a realidade de um programa de DevRel pode variar muito de empresa para empresa e de produto para produto, nem sempre será possível ou útil seguir a risca as diretrizes deste manual. Se for o caso, não tem problema! Nem sempre você poderá cumprir cada item da checklist, e você poderá perceber quer certas atividades precisam ser adaptadas para se encaixar à sua realidade. Este manual contém diretrizes e conselhos, não uma lista de regras que precisam ser seguidas à risca.
+&nbsp;&nbsp;Como a realidade de um programa de DevRel pode variar muito de empresa para empresa e de produto para produto, nem sempre será possível ou útil seguir exatamente as diretrizes deste manual. Se for o caso, não tem problema! Nem sempre você poderá cumprir cada item da checklist, e você poderá perceber quer certas atividades precisam ser adaptadas para se encaixar à sua realidade. Este manual contém diretrizes e conselhos, não uma lista de regras que precisam ser seguidas à risca.
 <br>
 
 
