@@ -13,7 +13,7 @@
  &nbsp;&nbsp;Documentação de sucesso irá utilizar ambos os tipos. 
 
 
-## 2. O Necessário
+## 2. Atores e Ferramentas
  
 ### 2.1 Atores
  
