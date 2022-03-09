@@ -124,7 +124,7 @@
 &nbsp;&nbsp;Uma característica do público técnico com quem estará lidando é que seu feedback comumente não será na forma da relação de um problema, mas sim da proposta de uma solução. Apesar de isso parecer útil, tenha cuidado. Nem toda solução proposta será boa, e vários devs podem ter respostas diferentes para o mesmo problema. Ao invés de simplesmente repassar as ideias sugeridas, procure entender os problemas por trás delas e decida, com o time de engenharia, a melhor solução.
     <br>
   <br>
-&nbsp;&nbsp;Você também pode pedir feedback diretamente para os membros do seu “Círculo Íntimo” (ver <a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">capítulo “Gerenciar Comunidade”).
+&nbsp;&nbsp;Você também pode pedir feedback diretamente para os membros do seu “Círculo Íntimo” (ver <a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">capítulo “Gerenciar Comunidade”</a>).
     <br>
   <br>
 &nbsp;&nbsp;É crucial ter um tempo de resposta rápido e implementação de feedback eficiente. Isto irá deixar seus usuários satisfeitos e encorajá-los a fazer mais sugestões. Esta eficiência é particularmente importante nos primeiros dias do seu produto, em que você está estabelecendo sua credibilidade entre os early adopters.
