@@ -77,7 +77,7 @@
   <br>
   <br>
   <details>
-<summary><strong>&nbsp;&nbsp;3.2.1. 12.3.2.1. Colaborar com Engenharia e Produto</strong></summary>
+<summary><strong>&nbsp;&nbsp;3.2.1. Colaborar com Engenharia e Produto</strong></summary>
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;O time de engenharia é um parceiro inestimável para DevRel. Você será a pessoa que representa o trabalho deles para o público alvo, e também a primeira pessoa a usá-lo. Você irá repetidamente exigir que certas mudanças sejam feitas no produto, seja em resposta ao feedback da sua comunidade, seja pela sua própria intuição sobre o que os devs gostariam de ter.
@@ -112,7 +112,7 @@
   <br>
 </details>
     <details>
-<summary><strong>&nbsp;&nbsp;3.2.2 Fazer investigação técnica do produto</strong></summary>
+<summary><strong>&nbsp;&nbsp;3.2.2 Colaborar com Marketing e Vendas</strong></summary>
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Mesmo que seu time de DevRel não responda ao departamento de marketing, como a maioria, a colaboração com eles é igualmente importante. O objetivo principal desta relação é promover a ideia de que os dois departamentos não são competidores, e sim, colaboradores, que têm o mesmo objetivo (vender um produto), para públicos diferentes.
