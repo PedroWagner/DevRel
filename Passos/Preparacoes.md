@@ -40,13 +40,13 @@ Entretanto, antes do seu time começar a exercer suas funções nas atividades m
 
 &nbsp;&nbsp;Recomendamos que você defina seus segmentos com base nos seguintes tipos de critérios:
 
-*	Critérios técnicos: Que conhecimentos e recursos técnicos são necessários para aproveitar o produto? Isto inclui sistemas operacionais usados, linguagem de programação conhecidas, experiência com algum outro programa que faz integração com o seu, etc.
+*	**Critérios técnicos**: Que conhecimentos e recursos técnicos são necessários para aproveitar o produto? Isto inclui sistemas operacionais usados, linguagem de programação conhecidas, experiência com algum outro programa que faz integração com o seu, etc.
 
-*	Critérios pessoais: Que características pessoais são mais prováveis de levarem alguém a usar o produto? Isto inclui função, nível educacional, se é profissional ou amador, idade, interesse em certo assunto, etc.
+*	**Critérios pessoais**: Que características pessoais são mais prováveis de levarem alguém a usar o produto? Isto inclui função, nível educacional, se é profissional ou amador, idade, interesse em certo assunto, etc.
 
-*	Critérios da organização: Se o produto tem o propósito de ser usado num nível empresarial, que tipo de empresa o usaria? Isto inclui tamanho, número de empregados, valor no mercado, estrutura organizacional, etc.
+*	**Critérios da organização**: Se o produto tem o propósito de ser usado num nível empresarial, que tipo de empresa o usaria? Isto inclui tamanho, número de empregados, valor no mercado, estrutura organizacional, etc.
 
-*	Critérios do mercado: Em quais ramos do mercado seu produto seria usado? Existe alguma região geográfica onde este ramo é mais proeminente?
+*	**Critérios do mercado**: Em quais ramos do mercado seu produto seria usado? Existe alguma região geográfica onde este ramo é mais proeminente?
 
 &nbsp;&nbsp;Uma vez completado este exercício você deve ter resumido o público amplo de desenvolvedores de software para alguns grupos pequenos que se encaixam nos critérios escolhidos. Escolha um ou dois mais relevantes para servir de foco.
 
