@@ -157,76 +157,76 @@
  <ul>
     <br>
   <br>
-&nbsp;&nbsp;Estes são apenas alguns exemplos, você pode pensar em mais coisas. A regra geral é que o conteúdo deve interessar ao seu público e deve, preferencialmente, ser algo que só sua equipe pode dizer. Isso dá um valor exclusivo para seus perfis na infinidade de perfis existentes.
+Estes são apenas alguns exemplos, você pode pensar em mais coisas. A regra geral é que o conteúdo deve interessar ao seu público e deve, preferencialmente, ser algo que só sua equipe pode dizer. Isso dá um valor exclusivo para seus perfis na infinidade de perfis existentes.
  <br>
   <br>
-&nbsp;&nbsp;Suas publicações serão vistas por todos os seguidores, e o algoritmo da plataforma irá naturalmente espalhá-los por entre perfis de interesse. Entretanto, há alguns passos simples que você pode tomar para maximizar a divulgação do seu conteúdo.
+Suas publicações serão vistas por todos os seguidores, e o algoritmo da plataforma irá naturalmente espalhá-los por entre perfis de interesse. Entretanto, há alguns passos simples que você pode tomar para maximizar a divulgação do seu conteúdo.
  <br>
   <br>
-&nbsp;&nbsp;O principal é aprender a usar hashtags. Da mesma forma que elas podem ajudar você a encontrar as discussões sobre um certo assunto, elas também podem te ajudar a colocar sua publicação no centro desta discussão. Por isso, coloque hashtags relevantes em algumas de suas publicações.
+O principal é aprender a usar hashtags. Da mesma forma que elas podem ajudar você a encontrar as discussões sobre um certo assunto, elas também podem te ajudar a colocar sua publicação no centro desta discussão. Por isso, coloque hashtags relevantes em algumas de suas publicações.
  <br>
   <br>
-&nbsp;&nbsp;Note que o uso de hashtags varia um pouco de plataforma para plataforma. No Twitter, devido ao limite do número de caracteres, não desperdice espaço com mais de duas hashtags. No Instagram, por outro lado, é comum ver contas que usam dúzias de hashtags.
+Note que o uso de hashtags varia um pouco de plataforma para plataforma. No Twitter, devido ao limite do número de caracteres, não desperdice espaço com mais de duas hashtags. No Instagram, por outro lado, é comum ver contas que usam dúzias de hashtags.
  <br>
   <br>
-&nbsp;&nbsp;A maioria das redes sociais possuem uma opção de perfil especificamente para negócios, e a conta empresarial provavelmente usa este formato. Este tipo de conta tem a opção de pagar para promover uma publicação, colocando-a no feed de pessoas mesmo que não te sigam. Isto é útil no início da sua jornada. Entretanto, a maior parte do engajamento virá de seguidores orgânicos.
+A maioria das redes sociais possuem uma opção de perfil especificamente para negócios, e a conta empresarial provavelmente usa este formato. Este tipo de conta tem a opção de pagar para promover uma publicação, colocando-a no feed de pessoas mesmo que não te sigam. Isto é útil no início da sua jornada. Entretanto, a maior parte do engajamento virá de seguidores orgânicos.
  <br>
   <br>
-&nbsp;&nbsp;Publicar em sua conta não basta. Seu público não quer que você fale para eles, mas que fale com eles. Ou seja, não apenas escreva de forma unilateral; interaja com sua comunidade.
+Publicar em sua conta não basta. Seu público não quer que você fale para eles, mas que fale com eles. Ou seja, não apenas escreva de forma unilateral; interaja com sua comunidade.
  <br>
   <br>
-&nbsp;&nbsp;Cada publicação sua é o início de uma conversa, então participe dela. Seus seguidores irão responder com suas opiniões; dê-se o trabalho de lê-las, curti-las e responde-las para mostrar que está ouvindo.
+Cada publicação sua é o início de uma conversa, então participe dela. Seus seguidores irão responder com suas opiniões; dê-se o trabalho de lê-las, curti-las e responde-las para mostrar que está ouvindo.
  <br>
   <br>
-&nbsp;&nbsp;Mas não é somente nas conversas que você inicia que você deve participar. Veja o que seus seguidores ou outros membros da comunidade estão dizendo e, se achar que têm algo de valor a contribuir para a conversa, dê sua resposta.
+Mas não é somente nas conversas que você inicia que você deve participar. Veja o que seus seguidores ou outros membros da comunidade estão dizendo e, se achar que têm algo de valor a contribuir para a conversa, dê sua resposta.
  <br>
   <br>
-&nbsp;&nbsp;Outra forma simples porém, extremamente importante, de interagir com sua base é usar sua plataforma para elevar suas vozes e ajudar a espalhar suas opiniões. Praticamente todas as redes sociais possuem a opção de compartilhar uma publicação, permitindo que você traga algo escrito por outro perfil para o seu, ajudando a alcançar um novo público.
+Outra forma simples porém, extremamente importante, de interagir com sua base é usar sua plataforma para elevar suas vozes e ajudar a espalhar suas opiniões. Praticamente todas as redes sociais possuem a opção de compartilhar uma publicação, permitindo que você traga algo escrito por outro perfil para o seu, ajudando a alcançar um novo público.
  <br>
   <br>
-&nbsp;&nbsp;Use esta ferramenta liberalmente para seus seguidores e membros da sua comunidade. Compartilhe o que dizem (contanto que você concorde); compartilhe seus anúncios e novidades; compartilhe seus projetos que querem mostrar para o mundo, mesmo que não sejam feitos usando seu produto.
+Use esta ferramenta liberalmente para seus seguidores e membros da sua comunidade. Compartilhe o que dizem (contanto que você concorde); compartilhe seus anúncios e novidades; compartilhe seus projetos que querem mostrar para o mundo, mesmo que não sejam feitos usando seu produto.
  <br>
   <br>
-&nbsp;&nbsp;No Instagram e no Facebook, uma vez que você foi marcado em um story (uma pequena publicação temporária), você pode compartilhá-la. Fazer este tipo de coisa ajudará seus seguidores a se sentirem vistos e valiosos, e os encorajará a publicar mais sobre você.
+No Instagram e no Facebook, uma vez que você foi marcado em um story (uma pequena publicação temporária), você pode compartilhá-la. Fazer este tipo de coisa ajudará seus seguidores a se sentirem vistos e valiosos, e os encorajará a publicar mais sobre você.
  <br>
   <br>
-&nbsp;&nbsp;O uso de compartilhamentos não precisa ser limitado ao seu público alvo, mas também pode ser usado para ajudar seus parceiros e outros membros da sua equipe. Aqueles possíveis tópicos de publicação mencionados anteriormente não precisam ser todos feitos por todos os membros da sua equipe. Publicações sobre eventos dos quais o time irá participar podem ser responsabilidade do Evangelista, por exemplo. Então o Evangelista pode fazer a publicação original enquanto que outros membros podem apenas compartilhar.
+O uso de compartilhamentos não precisa ser limitado ao seu público alvo, mas também pode ser usado para ajudar seus parceiros e outros membros da sua equipe. Aqueles possíveis tópicos de publicação mencionados anteriormente não precisam ser todos feitos por todos os membros da sua equipe. Publicações sobre eventos dos quais o time irá participar podem ser responsabilidade do Evangelista, por exemplo. Então o Evangelista pode fazer a publicação original enquanto que outros membros podem apenas compartilhar.
  <br>
   <br>
-&nbsp;&nbsp;Outra tática que você pode usar para impulsionar o engajamento em suas publicações é um Call to Action, ou chamada para ação, em português. Isto significa fazer uma publicação em que você explicitamente pede que seus seguidores façam alguma coisa. Este pedido não precisa ser muita coisa, é apenas uma forma de estimular a interação com sua publicação.
+;Outra tática que você pode usar para impulsionar o engajamento em suas publicações é um Call to Action, ou chamada para ação, em português. Isto significa fazer uma publicação em que você explicitamente pede que seus seguidores façam alguma coisa. Este pedido não precisa ser muita coisa, é apenas uma forma de estimular a interação com sua publicação.
  <br>
   <br>
-&nbsp;&nbsp;Exemplos destes chamados são “Diga-nos seu filme favorito”, “Poste uma foto com seu bicho de estimação”, “Marque cinco amigos que você levaria pra jantar”, etc. Naturalmente, você vai querer que estes chamados sejam mais relevantes para a sua comunidade, mas de vez em quando, pode fazer sobre um assunto qualquer, para variar. 
+Exemplos destes chamados são “Diga-nos seu filme favorito”, “Poste uma foto com seu bicho de estimação”, “Marque cinco amigos que você levaria pra jantar”, etc. Naturalmente, você vai querer que estes chamados sejam mais relevantes para a sua comunidade, mas de vez em quando, pode fazer sobre um assunto qualquer, para variar. 
  <br>
   <br>
-&nbsp;&nbsp;No Instagram e no Facebook, onde publicações não podem ser feitas em resposta a outras, se sua chamada exigir alguma publicação por parte de seus seguidores, você deve pedir que usem alguma hashtag específica, ou que marquem seu perfil. Por exemplo “Poste uma foto usando nosso produto com a hashtag #DevRel”.
+No Instagram e no Facebook, onde publicações não podem ser feitas em resposta a outras, se sua chamada exigir alguma publicação por parte de seus seguidores, você deve pedir que usem alguma hashtag específica, ou que marquem seu perfil. Por exemplo “Poste uma foto usando nosso produto com a hashtag #DevRel”.
  <br>
   <br>
-&nbsp;&nbsp;Chamadas que envolvam marcar outros perfis são particularmente úteis para divulgação, pois estimula que seus próprios seguidores espalhem seu perfil para outras pessoas.
+Chamadas que envolvam marcar outros perfis são particularmente úteis para divulgação, pois estimula que seus próprios seguidores espalhem seu perfil para outras pessoas.
  <br>
   <br>
-&nbsp;&nbsp;Estas chamadas também podem ter grande impacto na divulgação quando usadas para fazer concursos e ofertas. Nesta estratégia, você oferece um prêmio simples, como um desconto, para algum perfil baseado no resultado de um chamado. Este tipo de concurso é muito usado por empresas no Instagram. A forma mais comum é um sorteio em que uma das pessoas que comentarem na publicação receberão um prêmio, contanto que marquem certo número de amigos.
+Estas chamadas também podem ter grande impacto na divulgação quando usadas para fazer concursos e ofertas. Nesta estratégia, você oferece um prêmio simples, como um desconto, para algum perfil baseado no resultado de um chamado. Este tipo de concurso é muito usado por empresas no Instagram. A forma mais comum é um sorteio em que uma das pessoas que comentarem na publicação receberão um prêmio, contanto que marquem certo número de amigos.
  <br>
   <br>
-&nbsp;&nbsp;Você também pode fazer uma oferta onde todos os participantes ganhem, mas para isso, é preciso exigir um pouco mais deles. O melhor jeito de se aproveitar disso é exigir que registram seus e-mails. Assim você consegue uma informação de contato de qualquer pessoas que se interessou pela sua oferta; uma grande oportunidade para direcioná-los para sua Central do Desenvolvedor, ou iniciar uma campanha de e-mails, como visto no <a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">capítulo “Divulgar”</a>.
+Você também pode fazer uma oferta onde todos os participantes ganhem, mas para isso, é preciso exigir um pouco mais deles. O melhor jeito de se aproveitar disso é exigir que registram seus e-mails. Assim você consegue uma informação de contato de qualquer pessoas que se interessou pela sua oferta; uma grande oportunidade para direcioná-los para sua Central do Desenvolvedor, ou iniciar uma campanha de e-mails, como visto no <a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">capítulo “Divulgar”</a>.
  <br>
   <br>
-&nbsp;&nbsp;É importante ressaltar que você nunca deve enviar alguma publicação por mensagem direta a alguma pessoa, ou marcar alguém em suas publicações. Isto só é aceitável se for de fato, algo diretamente relacionado à pessoa, como um desejo de feliz aniversário, ou para parabenizar algum feito.
+É importante ressaltar que você nunca deve enviar alguma publicação por mensagem direta a alguma pessoa, ou marcar alguém em suas publicações. Isto só é aceitável se for de fato, algo diretamente relacionado à pessoa, como um desejo de feliz aniversário, ou para parabenizar algum feito.
  <br>
   <br>
-&nbsp;&nbsp;Para uma rede social de sucesso, além de saber o que publicar, é preciso saber quando publicar. Você quer um perfil ativo, mas não um que publique com tanta frequência a ponto de ser considerado spam. 
+Para uma rede social de sucesso, além de saber o que publicar, é preciso saber quando publicar. Você quer um perfil ativo, mas não um que publique com tanta frequência a ponto de ser considerado spam. 
  <br>
   <br>
-&nbsp;&nbsp;A taxa aceitável de publicações varia dependendo da plataforma. No Twitter, onde publicações são menores e mais facilmente perdidas, você pode fazer de cinco a dez por dia, não incluindo compartilhamentos. No Instagram e no Facebook, por sua vez, as publicações são maiores, e é melhor fazer apenas uma ou duas por dia. 
+A taxa aceitável de publicações varia dependendo da plataforma. No Twitter, onde publicações são menores e mais facilmente perdidas, você pode fazer de cinco a dez por dia, não incluindo compartilhamentos. No Instagram e no Facebook, por sua vez, as publicações são maiores, e é melhor fazer apenas uma ou duas por dia. 
  <br>
   <br>
-&nbsp;&nbsp;Note que tanto o Instagram quanto o Facebook possuem uma outra forma de publicação, chamadas stories. Estes são fotos ou vídeos curtos que ficam disponíveis por apenas vinte e quatro horas (apesar de você poder torná-las permanentes com a função “destaques”). Por sua natureza efêmera e curta, você pode fazer muitas delas por dia.
+Note que tanto o Instagram quanto o Facebook possuem uma outra forma de publicação, chamadas stories. Estes são fotos ou vídeos curtos que ficam disponíveis por apenas vinte e quatro horas (apesar de você poder torná-las permanentes com a função “destaques”). Por sua natureza efêmera e curta, você pode fazer muitas delas por dia.
  <br>
   <br>
-&nbsp;&nbsp;Para facilitar a definição e manutenção de uma agenda de publicações, é recomendável usar Buffer, ou alguma ferramenta similar. Este software permite a automação de suas publicações; ou seja, você pode escrever uma publicação previamente, e ela será publicada em uma data ou hora de sua escolha. Você inclusive pode definir publicações recorrentes.
+Para facilitar a definição e manutenção de uma agenda de publicações, é recomendável usar Buffer, ou alguma ferramenta similar. Este software permite a automação de suas publicações; ou seja, você pode escrever uma publicação previamente, e ela será publicada em uma data ou hora de sua escolha. Você inclusive pode definir publicações recorrentes.
  <br>
   <br>
-&nbsp;&nbsp;Uma última ferramenta que você pode querer utilizar, especificamente no Twitter, são os “Twitter chats”. Este são essencialmente salas de discussão abertas e previamente agendadas. Você pode marcar um chat, preferencialmente com algum tópico pré-definido, para poder ter a oportunidade de conversar diretamente com seus seguidores, e estes, uns com os outros. Entretanto, para que este chats, tenham sucesso e sejam produtivos, é recomendável que sejam uma parte recorrente de sua agenda.
+Uma última ferramenta que você pode querer utilizar, especificamente no Twitter, são os “Twitter chats”. Este são essencialmente salas de discussão abertas e previamente agendadas. Você pode marcar um chat, preferencialmente com algum tópico pré-definido, para poder ter a oportunidade de conversar diretamente com seus seguidores, e estes, uns com os outros. Entretanto, para que este chats, tenham sucesso e sejam produtivos, é recomendável que sejam uma parte recorrente de sua agenda.
    <br>
   <br>
 </details>
@@ -255,6 +255,7 @@
   <br>  
 </details>
 
+    
 ## 4. Checklist
 
 ### 4.1.	Montar Perfil
