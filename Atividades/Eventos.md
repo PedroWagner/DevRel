@@ -2,13 +2,13 @@
 
 ## 1. Introdução
 
-&nbsp;&nbsp;De todas as formas de divulgação e evangelismo em DevRel, a participação em eventos e conferências é frequentemente vista como a mais efetiva. Devido a importância desta atividade, e também devido ao fato de ser um dos aspectos mais bem documentados sobre os programas de DevRel, dedicamos um capítulo inteiro para ela.
+&nbsp;&nbsp;De todas as formas de divulgação e evangelismo em DevRel, a participação em eventos e conferências é frequentemente vista como a mais efetiva. Devido à importância desta atividade, e também devido ao fato de ser um dos aspectos mais bem documentados sobre os programas de DevRel, dedicamos um capítulo inteiro para ela.
 
 &nbsp;&nbsp;Existem diversos tipos de eventos técnicos em que participar, mas este capítulo focará em dois: conferências com palestras, e hackathons. Estes eventos presenciais são uma forma altamente eficiente para se alcançar novos devs, pois posiciona sua marca e seu programa em uma posição destacada em frente a um público engajado.
 
-&nbsp;&nbsp;Devido à pandemia de Covid-19, a importância de eventos presenciais diminuiu nos últimos anos, suplantando em proeminência pelas redes sociais e conteúdo online. É difícil dizer, no início de 2022 quando este manual foi escrito, qual será o lugar de eventos presenciais em futuros programas de DevRel.
+&nbsp;&nbsp;Devido à pandemia de Covid-19, a importância de eventos presenciais diminuiu nos últimos anos, suplantado em proeminência pelas redes sociais e conteúdo online. É difícil dizer, no início de 2022 quando este manual foi escrito, qual será o lugar de eventos presenciais em futuros programas de DevRel.
 
-&nbsp;&nbsp;Apesar disso, comunicação presencial ainda é visto como a melhor forma de se criar relações fortes, por isto não deve ser ignorada. Além disso, eventos virtuais estão se tornando mais frequentes, e para participar deles, você pode usar muitas das mesmas diretrizes presentes neste capítulo.
+&nbsp;&nbsp;Apesar disso, comunicação presencial ainda é visto como a melhor forma de se criar relações fortes, por isso não deve ser ignorada. Além disso, eventos virtuais estão se tornando mais frequentes, e para participar deles, você pode usar muitas das mesmas diretrizes presentes neste capítulo.
 
 &nbsp;&nbsp;Note que, a menos que você seja uma empresa já grande e madura, é sempre mais vantajoso participar de eventos existentes do que organizar os seus. Organizar eventos é um processo caro, demorado e trabalhoso, e o resultado pode não ser tão proveitoso, pois seus eventos tenderão a atrair pessoas que já estão na sua base de usuários. Por isso, este capítulo contempla somente o necessário para participar de eventos, e não diz respeito à tarefa de organização de um.
 
@@ -34,17 +34,18 @@
 
 <details>
 <summary><strong>3.1. Encontrar Eventos</strong></summary>
- 
-&nbsp;&nbsp;Antes de participar de uma conferência, você precisa se inscrever nela, mas antes disso você precisa decidir de que conferência participar. Existem diversos eventos de software por aí, e você não pode participar de todos. Mesmo que pudesse estar em todos estes lugares ao mesmo tempo, isso seria proibitivamente caro, especialmente para o orçamento de um programa iniciante. Por isso, é importante ser seletivo e escolher em quais eventos devem focar sua atenção.
+ <br>
+  <br>
+&nbsp;&nbsp;Antes de participar de uma conferência, você precisa se inscrever nela, mas antes disso você precisa decidir de que conferência participar. Existem diversos eventos de software por aí, e você não pode participar de todos. Mesmo que pudesse estar em todos estes lugares ao mesmo tempo, isso seria proibitivamente caro, especialmente para o orçamento de um programa iniciante. Por isso, é importante ser seletivo e escolher em quais eventos deve focar sua atenção.
 <br>
   <br>
-&nbsp;&nbsp;Qual tipo de evento você precisa depende dos seus objetivos. Se sua prioridade é divulgação, conferências são a melhor opção; seu você quer sondar opiniões sobre seu produto ou observar ele e seu recurso em uso para propósitos de teste, hackathons são a melhor escolha.
+&nbsp;&nbsp;Qual tipo de evento você precisa depende dos seus objetivos. Se sua prioridade é divulgação, conferências são a melhor opção; seu você quer sondar opiniões sobre seu produto ou observar ele e seus recursos em uso para propósitos de teste, hackathons são a melhor escolha.
 <br>
   <br>
 &nbsp;&nbsp;No geral, e especialmente para conferências com objetivo de divulgação, você quer alcançar novos públicos.  Exatamente qual novo público, depende da estratégia da sua empresa e do seu programa. Por exemplo, se foi notado interesse crescente na empresa em certa região geográfica, é bom procurar eventos por perto. Mas também é muito útil você ter um certo número de pessoas que já fazem parte da sua comunidade (se tiver uma), para te dar apoio e facilitar conexões. Por isso, procure por eventos que sejam atendidos tanto por membros da comunidade quanto por potenciais novos membros.
 <br>
   <br>
-&nbsp;&nbsp;Se já tiver canais de comunidade funcionando você pode sondá-los para descobrir que eventos os membros costumam antecipar e anteder (ver capítulo “Gerenciar Comunidade” para mais sobre isso). Desta seleção, você procura descobrir qual o perfil geral dos atendentes e definir se representam um mercado potencial.
+&nbsp;&nbsp;Se já tiver canais de comunidade funcionando você pode sondá-los para descobrir que eventos os membros costumam antecipar e anteder (ver <a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">capítulo “Gerenciar Comunidade”</a> para mais sobre isso). Desta seleção, você procura descobrir qual o perfil geral dos atendentes e definir se representam um mercado potencial.
 <br>
   <br>
 &nbsp;&nbsp;Você pode já querer participar das maiores e mais populares conferências para ter a maior visibilidade possível. Entretanto, estas mesmas conferências, por serem muito cobiçadas, são mais seletivas em seus participantes, e dificilmente quererão palestrantes iniciantes e desconhecidos. Além disso, eventos grandes são mais difíceis de manejar, e seus erros serão mais visíveis. Por isso é recomendável que você comece com pequenos eventos regionais. Estes eventos não têm tanta gente, mas é mais fácil criar relações significativas neles, e te ajudam a testar sua estratégia e ver o que precisa de ajustes antes de ir para os grandes palcos.
@@ -53,7 +54,7 @@
 &nbsp;&nbsp;Depois de tudo isso, há ainda algumas considerações a se tomar ao escolher um evento. Você precisa verificar se participar deste evento se encaixa no seu orçamento e na sua agenda, se quaisquer restrições que te imponham são aceitáveis, e também se o evento corresponde aos valores da companhia. Se associar a um evento ou organizadores com má reputação apenas fará mal a você e sua empresa. É sempre útil pesquisar edições anteriores do evento para descobrir informações como estas.
 <br>
   <br>
-&nbsp;&nbsp;Ao examinar todos estes critérios, a lista completa de eventos existentes deve ter se resumido a uma pequena solução. Daí você precisamente selecionar quais são mais vantajosos, ou permitem o cronograma mais produtivo.
+&nbsp;&nbsp;Ao examinar todos estes critérios, a lista completa de eventos existentes deve ter se resumido a uma pequena solução. Daí você precisa selecionar quais são mais vantajosos, ou permitem o cronograma mais produtivo.
 <br>
   <br>
 &nbsp;&nbsp;Uma vez escolhido o evento de que você quer participar, você precisa, muito provavelmente, se inscrever para palestrar ou para ter um estande. O processo de inscrição varia de evento para evento, então não há muito que podemos ensinar aqui. Geralmente, estes processos incluem a solicitação de uma proposta para sua palestra ou apresentação. Esta proposta deve ser breve e deixar claro o porquê de sua apresentação ser interessante para os atendentes do evento. É recomendável escrever esta proposta de forma levemente vaga, para te dar espaço para mudar algo que você precise até a apresentação.
@@ -65,7 +66,7 @@
 &nbsp;&nbsp;No geral, isso significa tentar aumentar sua rede de conexões através de networking e ir atrás das oportunidades que já existem para você. Procure descobrir se pode tomar parte de algum podcast, ou ir a algum encontro menor na sua área, ou participar de um painel de discussão. Compareça a conferências mesmo que não como palestrante, apenas para marcar presença e conhecer pessoas. Ofereça ajudar e patrocinar eventos menores e iniciativas dos organizadores para fortalecer seus laços. É um trabalho gradual, mas à medida que você vai crescendo seu renome você terá mais oportunidades, maiores e melhores.
 <br>
   <br>
-&nbsp;&nbsp;Você também terá mais chances de ser bem recebido se se mostrar um participante com quem é fácil trabalhar. Algo que facilita e muito a vida dos organizadores e ter toda a informação sobre você que precisam facilmente acessível em um único lugar. Esta pode ser uma página pessoal um perfil de rede social, ou uma página no site da empresa. Nesta página coloque tudo que possam querer saber, incluindo fotos, informações biográficas, lugar de emprego e função, tópicos que costuma apresentar, vídeos de apresentações passadas e qualquer exigência pessoal que tenha.
+&nbsp;&nbsp;Você também terá mais chances de ser bem recebido se se mostrar um participante com quem é fácil trabalhar. Algo que facilita e muito a vida dos organizadores é ter toda a informação sobre você que precisam facilmente acessível em um único lugar. Esta pode ser uma página pessoal, um perfil de rede social, ou uma página no site da empresa. Nesta página coloque tudo que possam querer saber, incluindo fotos, informações biográficas, lugar de emprego e função, tópicos que costuma apresentar, vídeos de apresentações passadas e qualquer exigência pessoal que tenha.
 <br>
   <br>
 &nbsp;&nbsp;Quanto mais você participa de eventos, para mais eventos você será convidado a participar. Então, apesar de ser um trabalho árduo no início, vai ficando mais simples com o progredir da sua carreira.
@@ -73,13 +74,12 @@
   <br>
 </details>
 
-
 <strong>3.2. Participar de Conferências</strong>
 <details>
   <summary><strong>&nbsp;&nbsp;3.2.1. Antes do Evento</strong></summary>
   <br>
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Assim que você é aceito para participar de um evento, é hora de começar a preparar a sua contribuição, em particular, sua palestra, se for a dar. A seção seguinte entra em detalhe sobre como preparar uma palestra, enquanto esta discute alguns passos gerais que devem ser tomados antes de comparecer a um evento.
+&nbsp;&nbsp;&nbsp;&nbsp;Assim que você é aceito para participar de um evento, é hora de começar a preparar a sua contribuição, em particular, sua palestra, se for dar. A seção seguinte entra em detalhe sobre como preparar uma palestra, enquanto esta discute alguns passos gerais que devem ser tomados antes de comparecer a um evento.
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;O primeiro é apoiar o evento, divulgando-o e sua participação neste em sua comunidade e nas redes sociais da empresa. Em particular, siga as redes sociais da empresa e retribua seus anúncios nos seus canais, e use as hashtags associadas ao evento (mais sobre isso no <a href="https://pedrowagner.github.io/DevRel/Atividades/Redes">capítulo “Gerenciar Redes Sociais”</a>). Este esforço te beneficiará com maior atenção, e será apreciado pelos organizadores, especialmente se você também ajudar a divulgar outras palestras.
@@ -88,10 +88,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Este esforço de divulgação inclui entrar em contato diretamente com membros da sua comunidade para descobrir quais deles pretendem atender o evento. Anuncie suas intenções de comparecer para eles e sugira um encontro antes, depois ou durante o evento.
 <br>
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Depois faça seu plano de ação para o evento. Defina o orçamento e quem precisa ir com você. É sempre bom não ir sozinho se possível. Você pode se beneficiar muito levando um expert no seu produto (por exemplo, alguém do time de engenharia) ou em qualquer tópico que planeja apresentar, para garantir que você tem apoio caso não saiba responder uma pergunta. Também é bom ter pelo menos uma outra pessoa, para que um possa cuidar da cabine enquanto o outro interage pela conferência ou dá a palestra. Sobre a cabine, peça acesso a planta do local; se você puder escolher a localização de sua cabine, é bom coloca-la em uma área de alto tráfego.
+&nbsp;&nbsp;&nbsp;&nbsp;Depois faça seu plano de ação para o evento. Defina o orçamento e quem precisa ir com você. É sempre bom não ir sozinho se possível. Você pode se beneficiar muito levando um expert no seu produto (por exemplo, alguém do time de engenharia) ou em qualquer tópico que planeja apresentar, para garantir que você tenha apoio caso não saiba responder uma pergunta. Também é bom ter pelo menos uma outra pessoa, para que um possa cuidar da cabine enquanto o outro interage pela conferência ou dá a palestra. Sobre a cabine, peça acesso a planta do local; se você puder escolher a localização de sua cabine, é bom coloca-la em uma área de alto tráfego.
 <br>
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Peça ao time de engenharia que te providencie com um demo do seu produto. Você pode precisar de uma para exibir o que sua empresa faz tanto na palestra quanto na cabine. O ideal é um demo que realize alguma função razoavelmente impressionante de forma rápida e fácil.
+&nbsp;&nbsp;&nbsp;&nbsp;Peça ao time de engenharia que te providencie um demo do seu produto. Você pode precisar de um para exibir o que sua empresa faz tanto na palestra quanto na cabine. O ideal é um demo que realize alguma função razoavelmente impressionante de forma rápida e fácil.
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Por fim, você precisa definir seu plano de viagem, caso precise viajar. Procure, sempre que possível, chegar um dia antes do evento, ou de sua participação neste, e ir embora um dia depois. Isso te dará tempo de descansar e se preparar adequadamente. Procure acomodações perto do local. Você não pode arriscar se atrasar por questões de distância e trânsito.
@@ -104,7 +104,8 @@
 
 <details>
   <summary><strong>&nbsp;&nbsp;3.2.2. Durante o Evento</strong></summary>
-  
+  <br>
+  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Você precisa estar envolvido ativamente na conferência além da sua palestra. O verdadeiro valor destes eventos é conhecer pessoas e construir relações, então participe ativamente, e seu sucesso será mais medido pela quantidade e qualidade das relações que faz do que por qualquer outra coisa.
 <br>
   <br>
@@ -117,14 +118,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Também dê cobertura ao evento em suas redes sociais. Publique sobre o que está acontecendo, as pessoas que conheceu, os produtos sendo demonstrados, as palestras que assistiu. Não esqueça de usar as hashtags do evento em tudo que publicar. Em horários de descanso, anuncie em suas redes onde você pode ser encontrado, caso alguém queria falar com você.
 <br>
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;É também recomendável que você aproveite um tempo antes da sua apresentação para testar tudo que possível. Isto é, verifique se há tomadas perto do palco e se estão funcionando, verifique o sinal da internet, verifique se seu equipamento e o equipamento da conferência estão funcionando bem, etc. Se você precisar usar o computador do evento, verifique como seus matérias aparecem nele. Ao assistir outras palestras, procure perceber como ela pode ser vista de diferentes pontos da plateia. Veja se o palestrante é difícil de ver ou ouvir em algum ponto; pode ser importante saber isso quando estiver se apresentando.
+&nbsp;&nbsp;&nbsp;&nbsp;É também recomendável que você aproveite um tempo antes da sua apresentação para testar tudo que possível. Isto é, verifique se há tomadas perto do palco e se estão funcionando, verifique o sinal da internet, verifique se seu equipamento e o equipamento da conferência estão funcionando bem, etc. Se você precisar usar o computador do evento, verifique como seus materiais aparecem nele. Ao assistir outras palestras, procure perceber como ela pode ser vista de diferentes pontos da plateia. Veja se o palestrante é difícil de ver ou ouvir em algum ponto; pode ser importante saber isso quando estiver se apresentando.
 <br>
   <br>
 </details>
 <details>
   <summary><strong>&nbsp;&nbsp;3.2.3. Depois do Evento</strong></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ao fim de uma conferência, o passo mais importante é dar seguimento aos contatos conseguidos durante o evento. Mande um e-mail para todos eles simplesmente relembrando o contato e oferecendo uma conversa, caso queiram. Priorize os contatos que, você acredita, são mais prováveis de se tornarem um cliente. Muitas vezes, não recebe resposta, mas quando receber, é a sua oportunidade de falar mais sobre sua empresa, seu produto e sua comunidade.
+<br>
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ao fim de uma conferência, o passo mais importante é dar seguimento aos contatos conseguidos durante o evento. Mande um e-mail para todos eles simplesmente relembrando o contato e oferecendo uma conversa, caso queiram. Priorize os contatos que, você acredita, são mais prováveis de se tornarem um cliente. Muitas vezes, você não irá receber resposta, mas quando receber, é a sua oportunidade de falar mais sobre sua empresa, seu produto e sua comunidade.
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;A próxima etapa é fazer um relatório para avaliar o sucesso de sua participação no evento. Falaremos sobre isso na seção “Coletar Métricas”.
@@ -138,32 +140,33 @@
 <strong>3.3. Palestrar</strong>
 <details>
   <summary><strong>&nbsp;&nbsp;3.3.1. Preparar Palestra</strong></summary>
-  
-&nbsp;&nbsp;&nbsp;&nbsp;Assim que receber a confirmação de que irá apresentar uma palestra, comece a preparar seu roteiro. Pense um tópico que interesse ao público do evento.  O tópico não precisa  explicitamente ser seu produto. Ela pode ser sobre um problema que ele resolve, uma tecnologia que ele emprega, alguma outra iniciativa da empresa, ou outra coisa qualquer. O importante é ser algo pelo qual genuinamente se interessa.
+  <br>
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Assim que receber a confirmação de que irá apresentar uma palestra, comece a preparar seu roteiro. Pense em um tópico que interesse ao público do evento.  O tópico não precisa  explicitamente ser seu produto. Ele pode ser sobre um problema que ele resolve, uma tecnologia que ele emprega, alguma outra iniciativa da empresa, ou outra coisa qualquer. O importante é ser algo pelo qual você e seu público genuinamente se interessem.
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;Uma vez escolhido o assunto, você precisa garantir que toda a sua informação está correta. Como palestrante, seu sucesso depende na confiança que as pessoas têm em você, portanto pesquise profundamente o assunto para se assegurar do que fala. Isso vale ainda mais quando for falar do seu produto. Como visto no capitulo “Divulgar”, nunca prometa nada que seu produto não faça. Se precisar, peça a alguém do time de engenharia para verificar e aprovar suas anotações.
+&nbsp;&nbsp;&nbsp;&nbsp;Uma vez escolhido o assunto, você precisa garantir que toda a sua informação está correta. Como palestrante, seu sucesso depende na confiança que as pessoas têm em você, portanto, pesquise profundamente o assunto para se assegurar do que fala. Isso vale ainda mais quando for falar do seu produto. Como visto no <a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">capitulo “Divulgar”</a>, nunca prometa nada que seu produto não faça. Se precisar, peça a alguém do time de engenharia para verificar e aprovar suas anotações.
 <br>
   <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;Depois que reunir a informação relevante em suas anotações, você precisará selecionar o que manter e o que cortar. Palestras têm um tempo muito limitado, então foque em um ponto central único que você quer que a plateia aprenda. Mantenha o que é mais importante para o entendimento do assunto, ou que vai ser mais interessante para a plateia, e jogue o resto fora.
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;Então, você precisa transformar suas informações em um roteiro. A maneira mais prática de se fazer isso é criar um esboço com os pontos principais e depois desenvolver cada um deles [5]. Uma coisa que você precisa ter em mente enquanto prepara seu roteiro é que palestras são primariamente entretenimento. Se alguém quiser aprender de fato sobre o assunto, existem muitas formas melhores para isso. Seu dever não é tornar o público em experts, e sim, despertar o interesse para que queiram aprender mais.
+&nbsp;&nbsp;&nbsp;&nbsp;Então, você precisa transformar suas informações em um roteiro. A maneira mais prática de se fazer isso é criar um esboço com os pontos principais e depois desenvolver cada um deles. Uma coisa que você precisa ter em mente enquanto prepara seu roteiro é que palestras são primariamente entretenimento. Se alguém quiser aprender de fato sobre o assunto, existem muitas formas melhores para isso. Seu dever não é tornar o público em experts, e sim, despertar o interesse para que queiram aprender mais.
 <br>
   <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;Portanto foque menos em listar um bando de fatos e mais em criar uma narrativa que engaje o público, e os faça lembrar de você. Estude um poucos sobre técnicas literárias para se inspirar, mas já listamos aqui alguns exemplos que podem ser úteis:
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp; *	Construa uma narrativa em três atos: A maioria das histórias (e é isto que você irá escrever) é dividida em três partes. A primeira é uma introdução, em que  o cenário é descrito e um conflito é introduzido. Em sua palestra, isto seria a apresentação de uma questão ou problema da vida real. A segunda parte desenvolve o conflito, apresentando novos obstáculos e uma tentativa de solução. Na sua palestra, isso seria a descrição das dificuldades em resolver o problema, e o processo pelo qual a solução foi desenvolvida. A terceira parte é aquela na qual o conflito se resolve. Aqui você apresenta sua solução ou conclusão. 
+*	<strong>Construa uma narrativa em três atos</strong>: A maioria das histórias (e é isto que você irá escrever) é dividida em três partes. A primeira é uma introdução, em que o cenário é descrito e um conflito é introduzido. Em sua palestra, isto seria a apresentação de uma questão ou problema da vida real. A segunda parte desenvolve o conflito, apresentando novos obstáculos e uma tentativa de solução. Na sua palestra, isso seria a descrição das dificuldades em resolver o problema, e o processo pelo qual a solução foi desenvolvida. A terceira parte é aquela na qual o conflito se resolve. Aqui você apresenta sua solução ou conclusão. 
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp; *	Repetição: A repetição de frases ou ideais é uma ferramenta muito usada para engajar um público e criar uma narrativa coesa. Procure uma frase importante, como um slogan, e a coloque em alguns pontos chave do seu roteiro, sem exageros. Ou então traga de volta uma frase usada anteriormente, mas mude-a levemente, ou mude o contexto. Uma técnica similar é a conhecida como “arma de Chekhov”. Esta é a técnica em que você introduz uma ideia, aparentemente não muito importante, no início de sua narrativa e volta com ela, no final, revelando sua importância.
+*	<strong>Repetição</strong>: A repetição de frases ou ideias é uma ferramenta muito usada para engajar um público e criar uma narrativa coesa. Procure uma frase importante, como um slogan, e a coloque em alguns pontos chave do seu roteiro, sem exageros. Ou então traga de volta uma frase usada anteriormente, mas mude-a levemente, ou mude o contexto. Uma técnica similar é a conhecida como “arma de Chekhov”. Esta é a técnica em que você introduz uma ideia, aparentemente não muito importante, no início de sua narrativa e volta com ela no final, revelando sua importância.
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp; *	Foque em sentimentos:  Muitos assuntos técnicos pode parecer bem chatos e secos para se falar sobre. Por isso, foque menos em coisas e mais em experiências; menos no assunto em si, e mais como ele faz com que as pessoas se sintam.
+*	<strong>Foque em sentimentos</strong>:  Muitos assuntos técnicos pode parecer bem chatos e secos para se falar sobre. Por isso, foque menos em coisas e mais em experiências; menos no assunto em si, e mais em como ele faz com que as pessoas se sintam.
 <br>
   <br>  
-&nbsp;&nbsp;&nbsp;&nbsp; *	Humor: Não faz mal nenhum apimentar seu roteiro com algumas piadas, contanto que elas não distraiam do tema. Entretanto, cuidado com piadas arriscadas, potencialmente ofensivas, ou ás custas de sua competição.
+*	<strong>Humor</strong>: Não faz mal nenhum apimentar seu roteiro com algumas piadas, contanto que elas não distraiam do tema. Entretanto, cuidado com piadas arriscadas, potencialmente ofensivas, ou ás custas de sua competição.
 <br>
   <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;Você não precisa se forçar a incorporar estas ideias no seu roteiro. Elas estão aqui apenas para te inspirar em sua abordagem. Escrever uma palestra é uma arte e não uma ciência.
@@ -187,7 +190,8 @@
 </details>
 <details>
   <summary><strong>&nbsp;&nbsp;3.3.2. Preparar slides</strong></summary>
-  
+  <br>
+  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;A coisa mais importante que você deve saber sobre slides é que eles devem ser meramente um auxilio visual para ilustrar sua palestra. Na maioria das vezes, você deveria conseguir dar sua palestra sem eles. Então pense neles somente depois que tiver preparado seu roteiro.
 <br>
   <br>    
@@ -212,7 +216,8 @@
 </details>
 <details>
   <summary><strong>&nbsp;&nbsp;3.3.3. Apresentar Palestra</strong></summary>
- 
+ <br>
+  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;No dia da palestra, você precisa estar preparado e focado. Como dito na seção “Durante o evento” é bom fazer um “reconhecimento do terreno” antes de fazer sua apresentação. Certifique-se de que seu equipamento e o da conferência funcionam, mas esteja preparado caso não funcione e algum recurso esteja indisponível. 
 <br>
   <br> 
@@ -222,25 +227,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Vá ao banheiro antes da palestra e desligue o telefone. Leve uma garrafa de água para se hidratar. Você também pode beber da garrafa para disfarçar uma pausa enquanto pensa.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Na hora de se apresentar, a melhor forma de dar uma boa palestra e lidar com a pressão e nervosismo é ser você mesmo. Não a necessidade de incorporar um persona/ pelo contrário, sua honestidade e autenticidade é seu melhor recurso.
+&nbsp;&nbsp;&nbsp;&nbsp;Na hora de se apresentar, a melhor forma de dar uma boa palestra e lidar com a pressão e nervosismo é ser você mesmo. Não há necessidade de incorporar um persona; pelo contrário, sua honestidade e autenticidade são seu melhor recurso.
 <br>
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Você pode começar perguntando a plateia quem já ouviu falar de você, da sua empresa, ou seu produto. Esta pode ser uma métrica útil para o reconhecimento da sua marca.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Entretanto, é muito importante engajar a sua voz e a sua linguajem corporal na apresentação. Uma palestra em que o apresentador fica parado, rígido, de olho nos slides, recitando um texto decorado em tom monótono é insuportável. Varie o seu tom e o seu ritmo enquanto fala. Fale mais rápido para chamar atenção, fale mais devagar e mais alto para enfatizar um ponto. Use pausas estratégicas para criar antecipação. Não tenha medo de gesticular.
+&nbsp;&nbsp;&nbsp;&nbsp;É muito importante engajar a sua voz e a sua linguajem corporal na apresentação. Uma palestra em que o apresentador fica parado, rígido, de olho nos slides, recitando um texto decorado em tom monótono é insuportável. Varie o seu tom e o seu ritmo enquanto fala. Fale mais rápido para chamar atenção, fale mais devagar e mais alto para enfatizar um ponto. Use pausas estratégicas para criar antecipação. Não tenha medo de gesticular.
 <br>
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Durante seus ensaios, você pode experimentar com diferentes formas de falar. De novo, palestras não são uma ciência exata. Você precisará praticar, assistir muitas palestras e dar muitas palestras até ficar bom nisso.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Caso cometa algum erro, não se aflija, porque a maioria das pessoas não irá perceber. Naturalmente, você não quer passar nenhuma informação errada, então, se errar algum fato, não tenha medo de reconhecer o erro, corrigir, e continuar. A maioria das pessoas não se importa que cometa erros, mas apreciam a humildade de reconhece-los.
+&nbsp;&nbsp;&nbsp;&nbsp;Caso cometa algum erro, não se aflija, porque a maioria das pessoas não irá perceber. Naturalmente, você não quer passar nenhuma informação errada, então, se errar algum fato, não tenha medo de reconhecer o erro, corrigir, e continuar. A maioria das pessoas não se importa que cometa erros, mas apreciam a humildade de reconhecê-los.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Uma das coisas mais aterrorizantes em qualquer tipo de apresentação é quando você conta uma piada e ninguém ri. Isso instantaneamente te deixa tenso e preocupado. Entretanto, não motivo pra isso. Primeiro, porque a acústica em palcos raramente é muito boa; é provável que a plateia tenha rido, só não alto o suficiente pra que você ouça. Segundo, porque você não está fazendo um show de comédia; ninguém veio te assistir esperando rir. Se você simplesmente ignorar, e continuar sua palestra normalmente, ninguém irá nem perceber. A pior coisa que você pode fazer nesta situação é chamar a atenção a isso pausando para esperar que riam.
+&nbsp;&nbsp;&nbsp;&nbsp;Uma das coisas mais aterrorizantes em qualquer tipo de apresentação é quando você conta uma piada e ninguém ri. Isso instantaneamente te deixa tenso e preocupado. Entretanto, não há motivo pra isso. Primeiro, porque a acústica em palcos raramente é muito boa; é provável que a plateia tenha rido, só não alto o suficiente pra que você ouça. Segundo, porque você não está fazendo um show de comédia; ninguém veio te assistir esperando rir. Se você simplesmente ignorar, e continuar sua palestra normalmente, ninguém irá nem perceber. A pior coisa que você pode fazer nesta situação é chamar a atenção a isso pausando para esperar que riam.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Ao fim da palestra, você talvez, tenha que fazer uma pequena seção de perguntas e respostas. Idealmente, você deve saber o suficiente sobre o assunto para poder responder qualquer pergunta, mas é possível que perguntem algo que não saiba, ou não lembre direito na hora. 
+&nbsp;&nbsp;&nbsp;&nbsp;Ao fim da palestra, você talvez tenha que fazer uma pequena seção de perguntas e respostas. Idealmente, você deve saber o suficiente sobre o assunto para poder responder qualquer pergunta, mas é possível que perguntem algo que não saiba, ou não lembre direito na hora. 
 <br>
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Nestes momentos, é extremamente importante não especular ou inventar uma resposta. Seja honesto, e diga que não está preparado para responder esta pergunta no momento. Se você estiver acompanhado de um membro da sua equipe que é mais versado no assunto, pode pedir que ele responda. Caso contrário, anote a pergunta e peça para a pessoa que a fez para te procurar mais tarde no evento, ou checar seu blog ou rede social. Isso te dará tempo de pensar melhor ou pesquisar para dar uma resposta melhor.
@@ -249,53 +254,56 @@
 </details>
 <details>
   <summary><strong>&nbsp;&nbsp;3.3.4. Fazer código ao vivo</strong></summary>
-  
+  <br>
+  <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Dependendo da sua palestra, você pode querer programar alguma coisa ao vivo, provavelmente para demonstrar o uso do seu produto. Esta é uma estratégia sempre popular com plateias técnicas, mas difícil de se fazer bem, e frequentemente dá errado. Além disso, você talvez nem use as mesmas ferramentas e ambientes de desenvolvimento que todos na plateia, então a oportunidade educacional pode ser limitada.
 <br>
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Então, se estiver realmente determinado a fazer uma demonstração de código, há algumas precauções importantes a tomar.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Primeiro, você deve, em seus ensaios, tentar fazer a demonstração, para garantir que seu método, de fato, funciona. Mesmo se for o caso, é comum cometer erros, ou esquecer coisas sob a pressão do palco. Você pode se prevenir pra isso preparando seções do código já prontas para copiar  e colar na hora. Se cometer algum erro e não perceber qual, não tenha medo de perguntar á plateia.
+&nbsp;&nbsp;&nbsp;&nbsp;Primeiro, você deve, em seus ensaios, tentar fazer a demonstração, para garantir que seu método, de fato, funciona. Mesmo se for o caso, é comum cometer erros, ou esquecer coisas sob a pressão do palco. Você pode se prevenir pra isso preparando seções do código já prontas para copiar e colar na hora. Se cometer algum erro e não perceber qual, não tenha medo de perguntar à plateia.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Este copiar e colar também ajuda a agilizar a demonstração. Seu tempo de palestra é limitado, é importante manter o ritmo, então use todos os atalhos a sua disposição. Já deixe todas as ferramentas necessárias preparadas e instaladas antes de se apresentar, para poder focar somente no que quer demonstrar. Não faça uma demonstração que dependa de conexão com a internet, pois sempre há o risco dele ela não ser boa.
+&nbsp;&nbsp;&nbsp;&nbsp;Este copiar e colar também ajuda a agilizar a demonstração. Seu tempo de palestra é limitado, e é importante manter o ritmo, então use todos os atalhos a sua disposição. Já deixe todas as ferramentas necessárias preparadas e instaladas antes de se apresentar, para poder focar somente no que quer demonstrar. Não faça uma demonstração que dependa de conexão com a internet, pois sempre há o risco de ela não ser boa.
 <br>
   <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Tome cuidado ao usar a sua tela, pois você corre o risco de mostrar pra todo mundo coisas que não quer que vejam, como senhas, histórico, etc. Por isso, tente usar um ambiente novo de trabalho.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;O melhor recurso pra este tipo de demonstração é não fazê-la de fato ao vivo. Em casa, quando estiver ensaiando, grave sua tela ao fazer o código. Assim, você tem um vídeo do código funcionando de verdade e pode só falar por cima deste. Mesmo que quiser fazer ao vivo, tenha essa gravação como plano B caso tudo dê errado.
+&nbsp;&nbsp;&nbsp;&nbsp;O melhor recurso pra este tipo de demonstração é não fazê-la de fato ao vivo. Em casa, quando estiver ensaiando, grave sua tela ao fazer o código. Assim, você tem um vídeo do código funcionando de verdade e pode só falar por cima deste. Mesmo se quiser fazer ao vivo, tenha essa gravação como plano B caso tudo dê errado.
 <br>
   <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;Este tipo de apresentação é muito melhor de ser feito por livestream do que no palco. Falamos sobre isso no capítulo “Produzir Conteúdo”.
+&nbsp;&nbsp;&nbsp;&nbsp;Este tipo de apresentação é muito melhor de ser feito por livestream do que no palco. Falamos sobre isso no <a href ="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">capítulo “Produzir Conteúdo”</a>.
 <br>
   <br>   
 </details>
 <details>
   <summary><strong>&nbsp;&nbsp;3.3.5. Dar seguimento</strong></summary>
-  
+  <br>
+  <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Depois que você termina uma palestra, e se você tiver ido bem, provavelmente haverão pessoas que vão querer conversar com você. Diga, ainda no palco, onde podem te encontrar, e fique por lá, continuando seu trabalho de responder perguntas e criar conexões. Seja honesto ao responder perguntas sobre seu produto. Se não for a melhor opção para o problema de alguém, diga isso e aponte uma alternativa.
 <br>
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Você também vai querer colocar o material da sua palestra online, para que alcance um público muito maior. Isto inclui seu deck de slides, a gravação da sua palestra, as respostas das perguntas que não pôde responder na hora, e até um artigo que entre em mais detalhes sobre o que você falou.
 <br>
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;É bom fazer isso o mais rápido possível, para se aproveitar do interesse no evento. Se o seu Produtor de Conteúdo for outro membro da equipe, você pode coordenar com ele para que este prepare esse material enquanto você ainda está no evento. Falamos mais sobre isso no capítulo “Produzir Conteúdo”.
+&nbsp;&nbsp;&nbsp;&nbsp;É bom fazer isso o mais rápido possível, para se aproveitar do interesse no evento. Se o seu Produtor de Conteúdo for outro membro da equipe, você pode coordenar com ele para que este prepare esse material enquanto você ainda está no evento. Falamos mais sobre isso no <a href ="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">capítulo “Produzir Conteúdo”</a>.
 <br>
   <br>  
 </details>
 
 <details>
 <summary><strong>3.4. Participar de hackathons</strong></summary>
- 
+ <br>
+  <br> 
 &nbsp;&nbsp;Hackathons são maratonas de programação onde devs tentam montar algum programa em um limite de tempo. Estes eventos são ideais para coletar feedback para o produto, pois você tem a oportunidade de assistir diretamente um grupo de pessoas tentando instalar, entender e usar seu produto, e quais são suas experiências ao fazê-lo.
 <br>
   <br>  
 &nbsp;&nbsp;Procure por hackathons cuja proposta permite o uso de um produto como o seu, e o ofereça aos organizadores como uma possível opção. Dependendo das regras do evento, você talvez possa oferecer um prêmio para encorajar o uso de seu produto. Pense em algo que seja interessante, mas não extremamente exuberante.
 <br>
   <br>  
-&nbsp;&nbsp;Participar de hackathons exige muita das mesmas atividades discutidas sobre conferências, como montar uma cabine, e procurar conexões. Você talvez até tenha que fazer uma pequena palestra apresentando sua ferramenta. Entretanto, hackathons exigem um atenção mais rígida em alguns aspectos.
+&nbsp;&nbsp;Participar de hackathons exige muita das mesmas atividades discutidas sobre conferências, como montar uma cabine, e procurar conexões. Você talvez até tenha que fazer uma pequena palestra apresentando sua ferramenta. Entretanto, hackathons exigem uma atenção mais rígida em alguns aspectos.
 <br>
   <br>  
 &nbsp;&nbsp;É mais importante ser pontual e se entrosar com participantes no início do evento, para poder sugerir o uso do seu produto. É mais importante permanecer durante todo o evento, para garantir suporte aos competidores do início ao fim. 
@@ -320,11 +328,12 @@
 
 <details>
 <summary><strong>3.5. Coletar Métricas</strong></summary>
- 
+ <br>
+  <br> 
 &nbsp;&nbsp;Identificar se um evento foi bem ou mal é uma questão de examinar métricas objetivas e subjetivas. As métricas objetivas incluem número de pessoas que compareceram ao evento, quantas destes interagiram com você ou sua cabine, quantas assistiram sua palestra, quantas já conheciam seu produto antes de assisti-la, e quantas vieram falar com você depois dela.
 <br>
   <br> 
-&nbsp;&nbsp;Lembre-se que números absolutos são enganadores, então sempre use porcentagens, como porcentagem do número total de atendentes que assistiu sua palestra; ou quanto dos atendentes de um hackathon usaram seu produto.
+&nbsp;&nbsp;Lembre-se que números absolutos são enganadores, então sempre use porcentagens, como porcentagem do número total de atendentes que assistiu sua palestra; ou quantos dos atendentes de um hackathon usaram seu produto.
 <br>
   <br> 
 &nbsp;&nbsp;Durante e depois de um evento, os atendentes estarão comentando sobre ele nas redes sociais. Use as hashtags  tanto do evento quanto do seu produto e empresa para descobrir o que está sendo dito sobre você.
