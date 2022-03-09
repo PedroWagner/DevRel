@@ -11,7 +11,7 @@
 &nbsp;&nbsp;Entretanto, querendo juntar seus esforços de rede social com seu programa de DevRel ou não, este capítulo fornece diretrizes muito úteis para maximizar o impacto das suas redes na divulgação de seu produto.
 
 
-## 2. O Necessário
+## 2. Atores e Ferramentas
 
 ### 2.1 Atores
 
