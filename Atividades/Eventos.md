@@ -157,16 +157,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Portanto foque menos em listar um bando de fatos e mais em criar uma narrativa que engaje o público, e os faça lembrar de você. Estude um poucos sobre técnicas literárias para se inspirar, mas já listamos aqui alguns exemplos que podem ser úteis:
 <br>
   <br>  
-*	<strong>Construa uma narrativa em três atos</strong>: A maioria das histórias (e é isto que você irá escrever) é dividida em três partes. A primeira é uma introdução, em que o cenário é descrito e um conflito é introduzido. Em sua palestra, isto seria a apresentação de uma questão ou problema da vida real. A segunda parte desenvolve o conflito, apresentando novos obstáculos e uma tentativa de solução. Na sua palestra, isso seria a descrição das dificuldades em resolver o problema, e o processo pelo qual a solução foi desenvolvida. A terceira parte é aquela na qual o conflito se resolve. Aqui você apresenta sua solução ou conclusão. 
+ <ul>
+<li>	<strong>Construa uma narrativa em três atos</strong>: A maioria das histórias (e é isto que você irá escrever) é dividida em três partes. A primeira é uma introdução, em que o cenário é descrito e um conflito é introduzido. Em sua palestra, isto seria a apresentação de uma questão ou problema da vida real. A segunda parte desenvolve o conflito, apresentando novos obstáculos e uma tentativa de solução. Na sua palestra, isso seria a descrição das dificuldades em resolver o problema, e o processo pelo qual a solução foi desenvolvida. A terceira parte é aquela na qual o conflito se resolve. Aqui você apresenta sua solução ou conclusão. </li>
 <br>
   <br>  
-*	<strong>Repetição</strong>: A repetição de frases ou ideias é uma ferramenta muito usada para engajar um público e criar uma narrativa coesa. Procure uma frase importante, como um slogan, e a coloque em alguns pontos chave do seu roteiro, sem exageros. Ou então traga de volta uma frase usada anteriormente, mas mude-a levemente, ou mude o contexto. Uma técnica similar é a conhecida como “arma de Chekhov”. Esta é a técnica em que você introduz uma ideia, aparentemente não muito importante, no início de sua narrativa e volta com ela no final, revelando sua importância.
+<li><strong>Repetição</strong>: A repetição de frases ou ideias é uma ferramenta muito usada para engajar um público e criar uma narrativa coesa. Procure uma frase importante, como um slogan, e a coloque em alguns pontos chave do seu roteiro, sem exageros. Ou então traga de volta uma frase usada anteriormente, mas mude-a levemente, ou mude o contexto. Uma técnica similar é a conhecida como “arma de Chekhov”. Esta é a técnica em que você introduz uma ideia, aparentemente não muito importante, no início de sua narrativa e volta com ela no final, revelando sua importância.</li>
 <br>
   <br>  
-*	<strong>Foque em sentimentos</strong>:  Muitos assuntos técnicos pode parecer bem chatos e secos para se falar sobre. Por isso, foque menos em coisas e mais em experiências; menos no assunto em si, e mais em como ele faz com que as pessoas se sintam.
+<li>	<strong>Foque em sentimentos</strong>:  Muitos assuntos técnicos pode parecer bem chatos e secos para se falar sobre. Por isso, foque menos em coisas e mais em experiências; menos no assunto em si, e mais em como ele faz com que as pessoas se sintam.</li>
 <br>
   <br>  
-*	<strong>Humor</strong>: Não faz mal nenhum apimentar seu roteiro com algumas piadas, contanto que elas não distraiam do tema. Entretanto, cuidado com piadas arriscadas, potencialmente ofensivas, ou ás custas de sua competição.
+<li>	<strong>Humor</strong>: Não faz mal nenhum apimentar seu roteiro com algumas piadas, contanto que elas não distraiam do tema. Entretanto, cuidado com piadas arriscadas, potencialmente ofensivas, ou ás custas de sua competição.</li>
+  </ul>
 <br>
   <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;Você não precisa se forçar a incorporar estas ideias no seu roteiro. Elas estão aqui apenas para te inspirar em sua abordagem. Escrever uma palestra é uma arte e não uma ciência.
