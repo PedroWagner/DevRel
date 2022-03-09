@@ -13,7 +13,7 @@
 &nbsp;&nbsp;Note que, a menos que você seja uma empresa já grande e madura, é sempre mais vantajoso participar de eventos existentes do que organizar os seus. Organizar eventos é um processo caro, demorado e trabalhoso, e o resultado pode não ser tão proveitoso, pois seus eventos tenderão a atrair pessoas que já estão na sua base de usuários. Por isso, este capítulo contempla somente o necessário para participar de eventos, e não diz respeito à tarefa de organização de um.
 
 
-## 2. O Necessário
+## 2. Atores e Ferramentas
 
 
 ### 2.1 Atores
