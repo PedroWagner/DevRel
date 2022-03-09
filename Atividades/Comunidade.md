@@ -34,7 +34,7 @@
 &nbsp;&nbsp;Seu objetivo primário como gerente da comunidade é mover seus devs para os níveis acima nesta hierarquia. Note, entretanto, que isto nem sempre será possível, e que você deve valorizar e dar atenção aos devs em todos os níveis. O mais importante é criar um ambiente convidativo e amigável de colaboração e interação.
 
 
-## 2. O Necessário
+## 2. Atores e Ferramentas
 
 ### 2.1 Atores
 
