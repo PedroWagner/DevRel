@@ -9,7 +9,7 @@ Tudo que você precisa saber para criar e manter uma comunidade de developers
 
 ### Introdução
 <br>
-&nbsp;&nbsp;Se você abriu este manual, é provável que esteja interessado na prática de Developer Relations, e portanto, já está ciente do que se trata. Porém, caso não esteja, esta seção lhe dirá o básico que precisa saber para usufruir do restante do manual.
+&nbsp;&nbsp;Se você abriu este manual, é provável que esteja interessado na prática de Developer Relations, e, portanto, já está ciente do que se trata. Porém, caso não esteja, esta seção lhe dirá o básico que precisa saber para usufruir do restante do manual.
  <br>
  <br>
 &nbsp;&nbsp;Developer Relations, comumente abreviado de DevRel, se refere a uma prática relativamente recente no mundo dos negócios tecnológicos. Ela é comumente utilizada por empresas que possuem um ou mais produtos cujo público alvo são desenvolvedores de software. Estes desenvolvedores, comumente referidos no meio como “devs”, são um público diferente do que se encontra em relações de vendas negócio a negócio e negócio a consumidor, e portanto exigem estratégias distintas.
