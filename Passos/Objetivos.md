@@ -12,7 +12,7 @@
 
 *	<strong>Acquisition</strong>: Aquisição, em português. Fazer com que uma pessoa, já ciente do produto, o adquira, seja como isso se dá com seu produto.
 
-*	<strong>Activation</strong>: Ativação, e português. Fazer com que uma pessoa, já de posse do seu produto, se torne um usuário ativo.
+*	<strong>Activation</strong>: Ativação, em português. Fazer com que uma pessoa, já de posse do seu produto, se torne um usuário ativo.
 
 *	<strong>Retention</strong>: Retenção, em português. Garantir que o usuário continue engajado e usando seu produto.
 
@@ -52,7 +52,7 @@
 
 &nbsp;&nbsp;O objetivo Referal corresponde a trazer o dev para a etapa de referência. Para este objetivo, os esforços da comunidade e do time de produção devem combinar para trazer ao dev a melhor experiência possível do produto.
 
-&nbsp;&nbsp;Os outros três objetivos são um pouco diferentes. O objetivo de produto está mais relacionado a suas interações com o time de engenharia do que com os devs, e a contribuição destes para o objetivo pode ocorrer em qualquer etapa.
+&nbsp;&nbsp;Os outros três objetivos são um pouco diferentes. O objetivo de produto está mais relacionado às suas interações com o time de engenharia do que com os devs, e a contribuição destes para o objetivo pode ocorrer em qualquer etapa.
 
 &nbsp;&nbsp;Similarmente, o objetivo de receita também varia com seu modelo de negócios. É possível que o momento que o dev se torna um usuário pagante ocorra junto da aquisição, da ativação, em algum momento depois, ou nunca. Existem, também, autores que diriam que DevRel não deve se preocupar ou ser encarregado de gerar receita, pois se os devs se sentirem pressionados a pagar pelo seu time de DevRel, estes podem sofrer um golpe à reputação, que pode ser extremamente danoso a seu trabalho, e potencialmente irreversível.
 
@@ -70,7 +70,7 @@
 
 ## 3. As Atividades
 
-&nbsp;&nbsp;Esta seção apresenta brevemente dez atividades comumente executadas por times de DevRel, e para que propósito você pode emprega-las. Cada uma destas atividades é detalhada mais profundamente em outros capítulos deste manual.
+&nbsp;&nbsp;Esta seção apresenta brevemente oito atividades comumente executadas por times de DevRel, e para que propósito você pode emprega-las. Cada uma destas atividades é detalhada mais profundamente em outros capítulos deste manual.
 
 *	<strong><a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">Divulgar</a></strong>: O conjunto de atividades que atraem devs para seu produto e os apresentam a sua comunidade. Importante para os objetivos de <strong>Awareness</strong> e <strong>Acquisition</strong>.
 
