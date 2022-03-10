@@ -1,5 +1,7 @@
 # Considerações Futuras
+ 
  Neste manual, apresentamos o que você precisa saber para iniciar seu programa de DevRel e para executar suas atividades principais. Isso é o bastante para ter um programa funcional durante muito tempo. Entretanto, está fora do escopo deste manual detalhar atividades que não são relevantes no início, mas que podem ajudar a evoluir seu programa. Apesar disso, apresentamos aqui algumas destas atividades, para você ter uma ideia de como continuar no futuro.
+ 
  
  ## Aumentar o escopo
   
