@@ -20,7 +20,7 @@
 
 ## 2. Atores
 
-* **Ator responsável**: O **Advogado*, por ser o representante do time dentro da companhia.
+* **Ator responsável**: O **Advogado**, por ser o representante do time dentro da companhia.
 
 * **Atores participantes**: O **Evangelista**, por precisar colaborar com o time de marketing.
 
