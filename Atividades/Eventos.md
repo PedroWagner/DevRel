@@ -30,7 +30,7 @@
 
 &nbsp;&nbsp;Para preparar palestras, qualquer programa de escrita simples mais uma ferramenta de apresentação como [Power Point](https://www.microsoft.com/en-ww/microsoft-365/powerpoint) (no Windows) ou [Keynote](https://www.apple.com/keynote/) (no Mac) é suficiente.
 
-## 3. Subatividades e diretrizes
+## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Encontrar Eventos</strong></summary>
