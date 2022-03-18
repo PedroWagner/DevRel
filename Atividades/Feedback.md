@@ -32,7 +32,7 @@
 
 &nbsp;&nbsp;Para a coleta direta de feedback, você possui vários opções. Você pode fazê-la no canal da sua comunidade, ou você pode criar um portal para isto na sua Central de Desenvolvedor. Entretanto, se você quiser uma solução já pronta, existem diversas ferramentas de captação de feedback existentes no mercado, como [UseResponse](https://www.useresponse.com/), [Canny](https://canny.io/), [Parlor.io](https://www.parlor.io/) e muitas outras. Note que muitas destas ferramentas são pagas, e talvez requeiram certo tempo de aprendizado.
 
-## 3. Subatividades e diretrizes
+## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Aperfeicoar a Eveloper Experience</strong></summary>
@@ -270,6 +270,6 @@
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Colaborar">Colaborar Internamente</a>
 </p>
