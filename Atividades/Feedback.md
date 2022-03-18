@@ -35,7 +35,7 @@
 ## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
-<summary><strong>3.1. Aperfeicoar a Eveloper Experience</strong></summary>
+<summary><strong>3.1. Aperfeicoar a Developer Experience</strong></summary>
   <br>
   <br>
 &nbsp;&nbsp;Um dos objetivos principais de DevRel é ser responsável pela Developer Experience, ou Experiência do Desenvolvedor. DX, como também é chamada, é o equivalente ao conceito de User Experience, só que específico para quando o usuário é um desenvolvedor de software. Ou seja, é o conjunto de experiências pelo qual o dev passa ao utilizar seu produto e todos os aspectos relacionados. Os princípios são os mesmos no geral, mas com diferenças sutis na prática.
