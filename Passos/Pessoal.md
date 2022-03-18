@@ -49,6 +49,6 @@
 
 <p align="center">
   <b>Continue Navegando:</b><br>
-  <a href="https://pedrowagner.github.io/DevRel/Primeiros Passos">Primeiros Passos</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Passos/Objetivos">Objetivos e Trajetória</a>
 </p>
