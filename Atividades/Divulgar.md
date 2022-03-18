@@ -248,6 +248,7 @@
 
 <p align="center">
   <b>Continue Navegando:</b><br>
-  <a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Passos/Preparacoes">Fazer as preparações</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Eventos">Participar de Eventos</a>
 </p>
