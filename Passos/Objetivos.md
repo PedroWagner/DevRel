@@ -1,4 +1,4 @@
-# Objetivos e Trajeótia
+# Objetivos e Trajetória
 
 ## 1. Objetivos
 
