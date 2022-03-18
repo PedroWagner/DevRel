@@ -37,7 +37,7 @@
 
 &nbsp;&nbsp;Para vídeos e livestreams você irá precisar de equipamento de filmagem, incluindo câmeras, microfones, e iluminação. Para vídeos editados, a melhor plataforma de publicação é o [Youtube](https://www.youtube.com/); para livestreams, a [Twitch](https://www.twitch.tv/); e para podcasts, o [Spotify](https://www.spotify.com/br/). Para vídeos editados, você naturalmente precisará de um editor de vídeo, como [Adobe Premiere](https://www.adobe.com/products/premiere.html). Para livestreams, você precisará de software adequado, como [OBS](https://obsproject.com/).
 
-## 3. Sub-processos e Diretrizes
+## 3. Subatividades e Diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Planejar Conteúdo</strong></summary>
@@ -623,6 +623,6 @@
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Documentacao">Escrever Documentação</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Coletar Feedback</a>
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Representar o Desenvolvedor</a>
 </p>
