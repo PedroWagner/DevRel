@@ -117,5 +117,6 @@ Entretanto, antes do seu time começar a exercer suas funções nas atividades m
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Passos/Objetivos">Objetivos e Trajetória</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Primeiros Passos">Primeiros Passos</a>
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Atividades/Divulgar">Divulgar</a>
 </p>
