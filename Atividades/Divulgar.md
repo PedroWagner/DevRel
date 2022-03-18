@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;Serão utilizadas ferramentas comuns de marketing, em especial [Google Ads](https://ads.google.com/home/) e [Carbon Ads](https://www.carbonads.net/) para para o uso de anúncios pagos, assim como as ferramentas de divulgação do [Quora](https://q.quoraforbusiness.com/business) e do [Stack Overflow](https://stackoverflowsolutions.com/advertising/), e, para criação de campanhas de e-mail, [Active Campaing](https://www.activecampaign.com/) ou [MailChimp](https://mailchimp.com/pt-br/). Você também precisará usar sites de descoberta como [Product Hunt](https://www.producthunt.com/), [Capterra](https://www.capterra.com/), [Stackshare](https://stackshare.io/) e [G2.com](https://www.g2.com/). Você precisa se familiarizar com o uso de pelo menos algumas destas ferramentas.
 
-## 3. Subatividades e Diretrizes
+## 3. Subatividades e Diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Definir uma estratégia de publicidade</strong></summary>
