@@ -25,7 +25,7 @@
 * **Atores participantes**: O **Evangelista**, por precisar colaborar com o time de marketing.
 
 
-## 3. Subatividades e diretrizes
+## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Comunicar com Gerência</strong></summary>
@@ -143,5 +143,6 @@
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">Representar o Desenvolvedor</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a>
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Futuro">Considerações Futuras</a>
 </p>
