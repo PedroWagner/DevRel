@@ -38,7 +38,7 @@
 - A cada release subsequente do produto, de forma a adicionar referencias para as novas funcionalidades, e atualizar as páginas referentes a qualquer funcionalidade que foi modificada.
 - Periodicamente, em resposta a feedback de usuários ou da análise de métricas, para melhorar a documentação existente.
 
-## 3. Subatividades e diretrizes
+## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Fazer investigação técnica do produto</strong></summary>
@@ -512,6 +512,6 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">Gerenciar Comunidade</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Atividades">Lista de Atividades</a> |
+  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a>
 </p>
