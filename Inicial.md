@@ -39,12 +39,34 @@ Tudo que você precisa saber para criar e manter uma comunidade de developers
 
 ### Os Primeiros Passos
 
-Quer saber como começar seu programa? Veja nossos recomendados primeiros passos clicando [aqui](https://pedrowagner.github.io/DevRel/Primeiros%20Passos)
+Quer saber como começar seu programa? Veja nossos recomendados primeiros passos:
+
+1. [O Pessoal](https://pedrowagner.github.io/DevRel/Passos/Pessoal)
+
+2. [Objetivos e Trajetória](https://pedrowagner.github.io/DevRel/Passos/Objetivos)
+
+3. [Fazendo as preparações](https://pedrowagner.github.io/DevRel/Passos/Preparacoes)
 
 ### Atividades
  
-Está com seu programa em posição de lançamento? Aprenda as atividades que compõem o dia-a-dia de DevRel clicando [aqui](https://pedrowagner.github.io/DevRel/Atividades)
- 
+Está com seu programa em posição de lançamento? Aprenda as atividades que compõem o dia-a-dia de DevRel:
+
+1. [Divulgar](https://pedrowagner.github.io/DevRel/Atividades/Divulgar)
+
+2. [Participar de Eventos](https://pedrowagner.github.io/DevRel/Atividades/Eventos)
+
+3. [Gerenciar Redes Sociais](https://pedrowagner.github.io/DevRel/Atividades/Redes)
+
+4. [Gerenciar Comunidade](https://pedrowagner.github.io/DevRel/Atividades/Comunidade)
+
+5. [Escrever Documentação](https://pedrowagner.github.io/DevRel/Atividades/Documentacao)
+
+6. [Produzir Conteúdo](https://pedrowagner.github.io/DevRel/Atividades/Conteudo)
+
+7. [Representar o Desenvolvedor](https://pedrowagner.github.io/DevRel/Atividades/Feedback)
+
+8. [Colaborar com Outros Setores](https://pedrowagner.github.io/DevRel/Atividades/Colaborar)
+
 ### Considerações Futuras
 
 Está com seu programa montado e funcionando? Parabéns! Se quiser ter uma ideia de como continuar a crescer no futuro, clique [aqui](https://pedrowagner.github.io/DevRel/Futuro)
