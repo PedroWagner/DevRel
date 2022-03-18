@@ -35,7 +35,7 @@
 
 &nbsp;&nbsp;Existem diversos serviços disponíveis que expandem as funcionalidades destas redes e trazem ferramentas interessantes para o seu trabalho. Dentre estas, ressaltamos o [Buffer](https://buffer.com/), um programa compatível com a maioria das grandes redes que permite o uso de automação e facilita a análise de métricas.
 
-## 3. Subatividades e diretrizes
+## 3. Subatividades e diretrizes (Clique para expandir)
 
 <details>
 <summary><strong>3.1. Montar o Perfil</strong></summary>
