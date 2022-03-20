@@ -20,7 +20,7 @@
 
 ### 2.2. Ferramentas
 
-&nbsp;&nbsp;Serão utilizadas ferramentas comuns de marketing, em especial [Google Ads](https://ads.google.com/home/) e [Carbon Ads](https://www.carbonads.net/) para para o uso de anúncios pagos, assim como as ferramentas de divulgação do [Quora](https://q.quoraforbusiness.com/business) e do [Stack Overflow](https://stackoverflowsolutions.com/advertising/), e, para criação de campanhas de e-mail, [Active Campaing](https://www.activecampaign.com/) ou [MailChimp](https://mailchimp.com/pt-br/). Você também precisará usar sites de descoberta como [Product Hunt](https://www.producthunt.com/), [Capterra](https://www.capterra.com/), [Stackshare](https://stackshare.io/) e [G2.com](https://www.g2.com/). Você precisa se familiarizar com o uso de pelo menos algumas destas ferramentas.
+&nbsp;&nbsp;Serão utilizadas ferramentas comuns de marketing, em especial [Google Ads](https://ads.google.com/home/) e [Carbon Ads](https://www.carbonads.net/) para para o uso de anúncios pagos, assim como as ferramentas de divulgação do [Quora](https://q.quoraforbusiness.com/business) e do [Stack Overflow](https://stackoverflowsolutions.com/advertising/), e, para criação de campanhas de e-mail, [Active Campaing](https://www.activecampaign.com/) ou [MailChimp](https://mailchimp.com/pt-br/). Você também precisará usar sites de descoberta como [Product Hunt](https://www.producthunt.com/), [Capterra](https://www.capterra.com/), [Stackshare](https://stackshare.io/) e [G2.com](https://www.g2.com/). Por fim, você precisará de [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) para poder coletar as métricas de sucesso para sua Central. Você precisa se familiarizar com o uso de pelo menos algumas destas ferramentas.
 
 ## 3. Subatividades e Diretrizes (Clique para expandir)
 
@@ -188,11 +188,11 @@
 
 - <input type="checkbox" name="uchk">	A Central do Desenvolvedor possui um visual atraente que reflete a personalidade da sua empresa?
 
-- <input type="checkbox" name="uchk">	A Central do Desenvolvedor é tecnicamente funcional a um nível satisfatório?
+- <input type="checkbox" name="uchk">	A Central do Desenvolvedor é tecnicamente funcional a um nível satisfatório (carrega rápido, não tem imagens quebradas, etc.)?
 
 ### 4.2.	Planejar e Executar Campanha de Publicidade
 
-- <input type="checkbox" name="uchk">	Você entendeu quem são os “tomadores de decisões” das suas ressonas e criou novas personas para eles, se necessário?
+- <input type="checkbox" name="uchk">	Você entendeu quem são os “tomadores de decisões” das suas personas e criou novas personas para eles, se necessário?
 
 - <input type="checkbox" name="uchk">	Você pensou em messaging separados para suas personas técnicas e de negócios?
 
@@ -207,6 +207,8 @@
 - <input type="checkbox" name="uchk">	Você definiu declarações-chaves usando sua messaging de 10, 25, 50 e 100 palavras?
 
 - <input type="checkbox" name="uchk">	Você criou Calls-to-Action que sejam atraentes para suas personas?
+
+- <input type="checkbox" name="uchk">	Você criou anúncios publicitários que usem estas declarações e Calls-to-Action?
 
 - <input type="checkbox" name="uchk">	Você consultou os devs internos da empresa sobre suas opiniões sobre a campanha?
 
@@ -245,6 +247,7 @@
 
 - <input type="checkbox" name="uchk">	Você conseguiu usar seus dados em testes A/B para identificar quais características tornaram estes anúncios um sucesso?
 
+- <input type="checkbox" name="uchk">	Você comparou estas métricas com as do período anterior?
 
 <p align="center">
   <b>Continue Navegando:</b><br>
