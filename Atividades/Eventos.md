@@ -363,17 +363,19 @@
 
 ### 4.1.	Escolher Evento
 
-- <input type="checkbox" name="uchk">	O evento escolhido é frequentado por um público novo e estratégico para sua empresa?
+- <input type="checkbox" name="uchk">	Você compilou uma lista de eventos voltados para desenvolvedores de software a seu alcance?
 
-- <input type="checkbox" name="uchk">	O evento escolhido é parcialmente frequentado por membros atuais da sua comunidade, ou usuários atuais do seu produto?
+- <input type="checkbox" name="uchk">	Você definiu um subconjunto destes eventos que são frequentados por um público novo e estratégico para sua empresa?
 
-- <input type="checkbox" name="uchk">	Você confirmou que o evento se encaixa na sua agenda e no seu orçamento?
+- <input type="checkbox" name="uchk">	Você definiu quais dos eventos deste subconjunto são parcialmente frequentados por membros atuais da sua comunidade, ou usuários atuais do seu produto?
 
-- <input type="checkbox" name="uchk">	Você pesquisou as regras do evento para saber como se portar, e se as restrições são aceitáveis?
+- <input type="checkbox" name="uchk">	Destes eventos, você escolheu o número máximo que se encaixam na sua agenda e no seu orçamento?
 
-- <input type="checkbox" name="uchk">	Você pesquisou sobre edições passadas do evento?
+- <input type="checkbox" name="uchk">	Você pesquisou as regras dos eventos para saber como se portar, e se as restrições são aceitáveis?
 
-- <input type="checkbox" name="uchk">	Você pesquisou sobre a reputação do evento e confirmou que é o tipo de evento ao qual sua empresa gostaria de estar associada?
+- <input type="checkbox" name="uchk">	Você pesquisou sobre edições passadas dos eventos?
+
+- <input type="checkbox" name="uchk">	Você pesquisou sobre a reputação dos eventos e confirmou que é o tipo de evento ao qual sua empresa gostaria de estar associada?
 
 ### 4.2.	Antes do Evento
 
@@ -393,7 +395,7 @@
 
 - <input type="checkbox" name="uchk">	Você possui um demo do produto pra mostrar no evento?
 
-- <input type="checkbox" name="uchk">	Você possui material de marketing, como estandartes, panfletos, souvenires e cartões de negócio?
+- <input type="checkbox" name="uchk">	Você possui material de marketing, como estandartes, panfletos, souvenires e cartões de negócio, para distribuir ou ter na cabine?
 
 **Antes do evento (Preparar palestra)**
 
