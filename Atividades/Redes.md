@@ -260,7 +260,7 @@
 
 ### 4.1.	Montar Perfil
 
-- <input type="checkbox" name="uchk">	Você escolheu uma rede social de acordo com suas necessidades e sua estratégia?
+- <input type="checkbox" name="uchk">	Você escolheu uma rede social de acordo com seu público alvo?
     
 - <input type="checkbox" name="uchk">	Você montou uma conta de negócios para ser o perfil principal de sua empresa?
     
