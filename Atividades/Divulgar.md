@@ -1,4 +1,4 @@
-# Divulgar, ou Developer Marketing
+# Divulgar
 
 ## 1. Introdução
 
