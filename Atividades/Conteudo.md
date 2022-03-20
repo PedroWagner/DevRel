@@ -451,7 +451,7 @@
 
 ### 5.1 Planejar Conteúdo
 
-- <input type="checkbox" name="uchk"> Você pensou em tópico que pode ser transformado em uma peça de conteúdo?
+- <input type="checkbox" name="uchk"> Você pensou em um tópico que pode ser transformado em uma peça de conteúdo?
 
 - <input type="checkbox" name="uchk" >O tópico em questão é de interesse ou relevante para o tipo de pessoa que participa na sua comunidade?
 
@@ -484,6 +484,8 @@
 - <input type="checkbox" name="uchk"> Seu conteúdo pode ser transformado em outra forma de conteúdo?
 
 ### 5.2 Definir um Calendário de Conteúdo
+
+- <input type="checkbox" name="uchk">	Você estabeleceu uma rotina de produção de conteúdo?
 
 - <input type="checkbox" name="uchk"> Esta rotina indica dias específicos e regulares para publicação de conteúdo?
 
@@ -565,11 +567,11 @@
 
 - <input type="checkbox" name="uchk"> Você garantiu que a transmissão da sua tela não inclui nada que não deva ser visto?
 
-- <input type="checkbox" name="uchk"> Você procurou? interagir com seu público, monitorando o chat, respondendo dúvidas e pedindo sugestões?
+- <input type="checkbox" name="uchk"> Você procurou interagir com seu público, monitorando o chat, respondendo dúvidas e pedindo sugestões?
 
 - <input type="checkbox" name="uchk"> Você evitou usar o nome real das pessoas?
 
-- <input type="checkbox" name="uchk"> Você possui um conjunto de recompensa pelo qual os seus seguidores podem trocas seus pontos de canal?
+- <input type="checkbox" name="uchk"> Você possui um conjunto de recompensas pelo qual os seus seguidores podem trocas seus pontos de canal?
 
 - <input type="checkbox" name="uchk"> Você inclui emojis personalizados para sua comunidade no seu chat?
 
@@ -598,13 +600,13 @@
 
 - <input type="checkbox" name="uchk"> Sua publicação foi compartilhada em plataformas relevantes ao tópico discutido?
 
-- <input type="checkbox" name="uchk"> Ao pesquisar e entrevistar sua comunidade, você identificou suas preferidas fontes de informação, onde você pode compartilhar sua publicação?
+- <input type="checkbox" name="uchk"> Ao pesquisar e entrevistar sua comunidade, você identificou suas preferidas fontes de informação, para saber onde você pode compartilhar sua publicação?
 
 - <input type="checkbox" name="uchk"> Ao pesquisar e entrevistar sua comunidade, você identificou figuras influentes no meio com quem você pode formar potenciais parcerias?
 
 - <input type="checkbox" name="uchk"> Você procurou formar relações e colaborar com tais figuras?
 
-- <input type="checkbox" name="uchk"> Você procurou colaborar com outros produtores de médio e segundo porte de forma mutualmente benéfica?
+- <input type="checkbox" name="uchk"> Você procurou colaborar com outros produtores de médio e pequeno porte de forma mutualmente benéfica?
 
 - <input type="checkbox" name="uchk"> Estas parcerias e relações estão provendo frutos (ex: estão compartilhando seu conteúdo)?
 
