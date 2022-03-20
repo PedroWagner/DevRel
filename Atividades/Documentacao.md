@@ -243,13 +243,6 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
   <br>
   <br>
  &nbsp;&nbsp;Ao longo de seu trabalho como DevRel, você irá perceber que muitas vezes a sua documentação precisa de umas mudanças, seja porque está desatualizada, seja porque ela não estava muito boa para começar.
-  <br>
-  <br>
- &nbsp;&nbsp;Existem duas atividades de revisão de documentação: atualização, que deve ser feita a cada release significativo do seu produto; e correção, que deve ser feita a períodos regulares de sua preferência.
-    <br>
-  <br>
-<details>
-<summary><strong> &nbsp;&nbsp;3.5.1 Atualizar documentação</strong></summary>
 <br>
   <br>
  &nbsp;&nbsp; &nbsp;&nbsp;A cada nova release de seu produto, é de se esperar que ele passe por uma ou mais mudanças significativas, seja a adição de novas funcionalidades ou a melhoria das existentes. Sendo assim, sua documentação deve ser atualizada para não ficar para trás.
@@ -267,16 +260,22 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;Algo que você também pode incluir na sua documentação a partir da segunda revisão, em parceria com o time de suporte e o gerente da comunidade, é uma seção de Perguntas Frequentes. Idealmente, essas perguntas deveriam ser respondidas pela própria documentação, e ter uma seção dedicada para elas arrisca duplicar a informação, mas a realidade é que muitos usuários irão procurar por essa seção antes de qualquer outra, então pode ser útil tê-la.
  <br>
  <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Outra adição útil a sua documentação é um log de mudanças. Faça uma lista de alterações feitas no produto na última release e a disponibilize junto da sua documentação, ou na Central do Desenvolvedor. Esta lista irá mostrar aos seus desenvolvedores, e também a usuários potenciais avaliando seus recursos, que seu produto está sendo atualizado e melhorado. Você também pode fazer com que cada item da lista seja um link para uma página relevante. 
-    <br>
-  <br>
-</details>
- 
-<details>
-<summary><strong> &nbsp;&nbsp;3.5.2 Corrigir documentação</strong></summary>
+ &nbsp;&nbsp; &nbsp;&nbsp;Outra adição útil é um log de mudanças. Faça uma lista de alterações feitas no produto na última release e a disponibilize junto da sua documentação, ou na Central do Desenvolvedor. Esta lista irá mostrar aos seus desenvolvedores, e também a usuários potenciais avaliando seus recursos, que seu produto está sendo atualizado e melhorado. Você também pode fazer com que cada item da lista seja um link para uma página relevante. 
 <br>
   <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Durante seu tempo no time de DevRel, você irá receber feedback da sua comunidade de diversas formas, algumas delas sobre documentação. Falaremos mais sobre essa coleta de feedback no capítulo <a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">"Representar o Desenvolvedor</a>.
+ &nbsp;&nbsp; &nbsp;&nbsp;Uma característica pequena mas de grande utilidade que você pode incorporar na sua documentação, mas só a partir da segunda revisão é uma lista de acesso rápido.
+ <br>
+  <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;Na página inicial, crie duas listas de links: uma para páginas atualizadas recentemente, outra para as páginas mais visitadas.
+  <br>
+  <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;A primeira lista permitirá que seus leitores acessem rapidamente a informação sobre como o seu produto mudou desde a última vez que usaram. A segunda lista facilitará que seus usuários encontrem respostas para dúvidas frequentes. Se muitas pessoas acessaram a página sobre design de UI, é natural assumir que, no futuro, muitas outras pessoas quererão o mesmo.
+  <br>
+  <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;Naturalmente, você só poderá criar essas listas a partir da segunda versão da sua documentação, e você deve mantê-la atualizada a cada revisão.
+  <br>
+  <br>
+ &nbsp;&nbsp; &nbsp;&nbsp;Não é apenas quando o produto é atualizado que você precisa revisar sua documentação. Durante seu tempo no time de DevRel, você irá receber feedback da sua comunidade de diversas formas, algumas delas sobre documentação. Falaremos mais sobre essa coleta de feedback no capítulo <a href="https://pedrowagner.github.io/DevRel/Atividades/Feedback">"Representar o Desenvolvedor</a>.
   <br>
   <br>
  &nbsp;&nbsp; &nbsp;&nbsp;A períodos semi-regulares, que podem variar de a cada semana até a cada ano, dependendo da quantidade de feedback que recebe, é importante revisar a documentação para entender o que pode ser melhorado.
@@ -291,25 +290,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
  &nbsp;&nbsp; &nbsp;&nbsp;É importante analisar como seus usuários estão interagindo com sua documentação e com seu produto, qual a fonte de suas dificuldades, e tomar uma atitude de acordo.
     <br>
   <br>
-</details>
   
-<details>
-<summary><strong> &nbsp;&nbsp;3.5.3 Criar listas de acesso rápido</strong></summary>
-<br>
-  <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Uma característica pequena mas de grande utilidade que você pode incorporar na sua documentação, mas só a partir da segunda revisão é uma lista de acesso rápido.
- <br>
-  <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Na página inicial, crie duas listas de links: uma para páginas atualizadas recentemente, outra para as páginas mais visitadas.
-  <br>
-  <br>
- &nbsp;&nbsp; &nbsp;&nbsp;A primeira lista permitirá que seus leitores acessem rapidamente a informação sobre como o seu produto mudou desde a última vez que usaram. A segunda lista facilitará que seus usuários encontrem respostas para dúvidas frequentes. Se muitas pessoas acessaram a página sobre design de UI, é natural assumir que, no futuro, muitas outras pessoas quererão o mesmo.
-  <br>
-  <br>
- &nbsp;&nbsp; &nbsp;&nbsp;Naturalmente, você só poderá criar essas listas a partir da segunda versão da sua documentação, e você deve mantê-la atualizada a cada revisão.
- <br>
-  <br>
-</details>
 </details>
  
 <details>
@@ -340,7 +321,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 ## 4. Checklist
 
-### 4.1. Fazer investigação técnica do produto
+### 4.1. Fazer investigação técnica e empática do produto (primeira documentação, e a cada nova funcionalidade)
   
 - <input type="checkbox" name="uchk">  Você tem uma noção básica do produto, suas funcionalidades e seu propósito?
 
@@ -354,8 +335,6 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Você esteve em contato com o time de desenvolvimento para averiguar a completude de sua lista?
 
-### 4.2. Fazer investigação empática do produto
-
 - <input type="checkbox" name="uchk"> Você consegue identificar as razões pelas quais alguém usaria seu produto, e o que tentariam fazer com ele?
 
 - <input type="checkbox" name="uchk"> Você tentou reproduzir esse processo hipotético?
@@ -364,7 +343,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Você saberia, com assistência do time de desenvolvimento, guiar um novo usuário tentando fazer a mesma coisa de forma que ele não tivesse os mesmos problemas que você?
 
-### 4.3. Organizar documentação
+### 4.2. Organizar documentação
 
 - <input type="checkbox" name="uchk"> Você possui uma lista de atividades que irá detalhar por meio de guias e tutoriais?
 
@@ -379,7 +358,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 - <input type="checkbox" name="uchk"> Esta seção está subdividida e ordenada de forma a refletir a estrutura do seu produto?
 
 
-### 4.4. Escrever documentação
+### 4.3. Escrever documentação
 
 - <input type="checkbox" name="uchk"> Você deu ao seu documento um título claro e instrutivo?
 
@@ -459,9 +438,7 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 - <input type="checkbox" name="uchk"> Seu código pode ser testado direto na página?
 
 
-### 4.5. Revisar documentação
-
-**Atualizar documentação**
+### 4.4. Atualizar documentação (nova release do produto)
 
 - <input type="checkbox" name="uchk"> Existem funcionalidades completamente novas no novo release do produto?
 
@@ -473,22 +450,21 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 
 - <input type="checkbox" name="uchk"> Todas as diferenças entre as versões ativas do seu produto estão marcadas e contempladas?
 
-- <input type="checkbox" name="uchk"> Você criou uma página de FAQ?
-
 - <input type="checkbox" name="uchk"> Você criou um log de mudanças para a última release?
 
 
-**Corrigir documentação**
+### 4.5. Corrigir Documentação (periodicamente)
+ 
+- <input type="checkbox" name="uchk">	Você criou ou atualizou a página de FAQ?
 
-- <input type="checkbox" name="uchk"> Ao examinar as métricas de sucesso, ficou claro que alguma parte da documentação não está cumprindo seu papel?
+- <input type="checkbox" name="uchk">	Você criou e/ou atualizou uma lista de pelo menos cinco páginas que foram mais visitadas no último período, com links para as mesmas?
+
+- <input type="checkbox" name="uchk">	Você criou uma lista similar para páginas recém-atualizadas?
+
+- <input type="checkbox" name="uchk">	Ao examinar as métricas de sucesso e o feedback da comunidade no último período, ficou claro que alguma parte da documentação não está cumprindo seu papel?
 
 - <input type="checkbox" name="uchk"> A documentação foi corrigida de forma a melhor alcançar seu objetivo?
 
-**Criar lista de acesso rápido**
-
-- <input type="checkbox" name="uchk"> Você criou e/ou atualizou uma lista de pelo menos cinco páginas que foram mais visitadas no último período, com links para as mesmas?
-
-- <input type="checkbox" name="uchk"> Você criou uma lista similar para páginas recém-atualizadas?
 
 ### 4.6. Coletar métricas
 
