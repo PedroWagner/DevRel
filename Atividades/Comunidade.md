@@ -541,7 +541,7 @@ No início, quando a sua comunidade já tem alguns membros e já participou de a
   
 ###	Coletar Métricas (mensal)
   
-- <input type="checkbox" name="uchk">	Você verificou a quantidade usuários ativos mensais?
+- <input type="checkbox" name="uchk">	Você verificou a quantidade de usuários ativos mensais?
   
 - <input type="checkbox" name="uchk">	Você verificou esta quantidade tendo em mente diferentes critérios para “atividade”?
   
