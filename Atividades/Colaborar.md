@@ -25,7 +25,7 @@
 * **Atores participantes**: O **Evangelista**, por precisar colaborar com o time de marketing.
 
 
-## 3. Subatividades e diretrizes (Clique para expandir)
+## 3. Subatividades e diretrizes
 
 <details>
 <summary><strong>3.1. Comunicar com Gerência</strong></summary>
