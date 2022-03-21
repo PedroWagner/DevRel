@@ -93,6 +93,6 @@ eventos de terceiros. Importante para <strong>Awareness</strong>.
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Passos/Pessoal">O Pessoal</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Passos/Preparacoes">Fazendo as preparações</a>
 </p>
