@@ -270,6 +270,6 @@
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Colaborar">Colaborar Internamente</a>
 </p>
