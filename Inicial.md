@@ -70,3 +70,6 @@ Está com seu programa em posição de lançamento? Aprenda as atividades que co
 ### Considerações Futuras
 
 Está com seu programa montado e funcionando? Parabéns! Se quiser ter uma ideia de como continuar a crescer no futuro, clique [aqui](https://pedrowagner.github.io/DevRel/Futuro)
+
+### [Glossário](https://pedrowagner.github.io/DevRel/Futuro/Glossario)
+
