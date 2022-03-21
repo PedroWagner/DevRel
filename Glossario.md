@@ -16,9 +16,9 @@ Esta seção apresenta a definição de alguns termos usados neste manual, espec
 
 *	**Call-to-Action**: Elemento de uma peça publicitário, como uma frase ou um link, que incita uma resposta imediata do público.
 
-*	**Caso de uso: Uma forma de usar o produto; um conjunto de ações que podem ser executadas para se chegar a um resultado.
+*	**Caso de uso**: Uma forma de usar o produto; um conjunto de ações que podem ser executadas para se chegar a um resultado.
 
-*	**Central do Desenvolvedor: Site central do seu programa de DevRel, aonde devs podem encontrar todos os recursos necessários para sua Jornada,
+*	**Central do Desenvolvedor**: Site central do seu programa de DevRel, aonde devs podem encontrar todos os recursos necessários para sua Jornada,
 
 *	**Changelog**: Uma lista de mudanças feitas recentemente a um produto.
 
