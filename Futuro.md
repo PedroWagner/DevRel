@@ -5,6 +5,7 @@
  
  ## Aumentar o escopo
   
+  
   Se tudo der certo, seus esforços resultarão em um produto de sucesso e uma comunidade satisfeita. Esta comunidade vai atrair mais e mais pessoas, crescendo cada vez mais. Sua empresa, satisfeita com o sucesso do produto, planeja lançar outros produtos voltados para desenvolvedores.
 
   Com isso, você precisa manter seus esforços existentes, mas também cumprir todas as atividades normais para apoiar o novo produto em uma comunidade cada vez maior.
