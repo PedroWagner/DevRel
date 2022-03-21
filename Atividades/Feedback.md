@@ -32,10 +32,10 @@
 
 &nbsp;&nbsp;Para a coleta direta de feedback, você possui vários opções. Você pode fazê-la no canal da sua comunidade, ou você pode criar um portal para isto na sua Central de Desenvolvedor. Entretanto, se você quiser uma solução já pronta, existem diversas ferramentas de captação de feedback existentes no mercado, como [UseResponse](https://www.useresponse.com/), [Canny](https://canny.io/), [Parlor.io](https://www.parlor.io/) e muitas outras. Note que muitas destas ferramentas são pagas, e talvez requeiram certo tempo de aprendizado.
 
-## 3. Subatividades e diretrizes (Clique para expandir)
+## 3. Subatividades e diretrizes
 
 <details>
-<summary><strong>3.1. Aperfeicoar a Developer Experience</strong></summary>
+<summary><strong>3.1. Aperfeiçoar a Developer Experience</strong></summary>
   <br>
   <br>
 &nbsp;&nbsp;Um dos objetivos principais de DevRel é ser responsável pela Developer Experience, ou Experiência do Desenvolvedor. DX, como também é chamada, é o equivalente ao conceito de User Experience, só que específico para quando o usuário é um desenvolvedor de software. Ou seja, é o conjunto de experiências pelo qual o dev passa ao utilizar seu produto e todos os aspectos relacionados. Os princípios são os mesmos no geral, mas com diferenças sutis na prática.
