@@ -59,7 +59,7 @@
 &nbsp;&nbsp;Por isso, é recomendável que você busque um equilíbrio entre uma plataforma que já é usada por seu público, e uma plataforma adequada ao seu trabalho. Você também pode utilizar mais de uma plataforma para se beneficiar de seus diferentes atributos. Por exemplo, um fórum no Reddit para discussões mais profundas e assíncronas, e um canal do Discord para discussão em tempo real. Tome cuidado, entretanto, para não fragmentar sua comunidade, pois cada nova plataforma diminui a porcentagem dos seus membros que estão presentes em todas; além de aumentar a complexidade do seu trabalho de monitoramento.
 
 
-## 3. Subatividades e diretrizes (Clique para expandir)
+## 3. Subatividades e diretrizes
 
 <details>
 <summary><strong>3.1. Iniciar Comunidade</strong></summary>
