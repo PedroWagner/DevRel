@@ -38,7 +38,7 @@
 - A cada release subsequente do produto, de forma a adicionar referencias para as novas funcionalidades, e atualizar as páginas referentes a qualquer funcionalidade que foi modificada.
 - Periodicamente, em resposta a feedback de usuários ou da análise de métricas, para melhorar a documentação existente.
 
-## 3. Subatividades e diretrizes (Clique para expandir)
+## 3. Subatividades e diretrizes
 
 <details>
 <summary><strong>3.1. Fazer investigação técnica do produto</strong></summary>
