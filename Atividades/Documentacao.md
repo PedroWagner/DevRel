@@ -488,6 +488,6 @@ Por fim, se o ambiente da sua documentação permitir, procure incorporar um sis
 <p align="center">
   <b>Continue Navegando:</b><br>
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Comunidade">Gerenciar Comunidade</a> |
-  <a href="https://pedrowagner.github.io/DevRel/Inicial">Voltar para o Início</a> |
+  <a href="https://pedrowagner.github.io/DevRel">Voltar para o Início</a> |
   <a href="https://pedrowagner.github.io/DevRel/Atividades/Conteudo">Produzir Conteúdo</a>
 </p>
